@@ -1,0 +1,119 @@
+date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
+2020-05-05,Dadra and Nagar Haveli,1,0,0,1,0
+2020-05-06,Dadra and Nagar Haveli,1,0,0, 0,0
+2020-05-07,Dadra and Nagar Haveli,1,0,0, 0,0
+2020-05-08,Dadra and Nagar Haveli,1,0,0, 0,0
+2020-05-09,Dadra and Nagar Haveli,1,0,0, 0,0
+2020-05-10,Dadra and Nagar Haveli,1,0,0, 0,0
+2020-05-11,Dadra and Nagar Haveli,1,0,0, 0,0
+2020-05-12,Dadra and Nagar Haveli,1,1,0, 0,1
+2020-05-13,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-14,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-15,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-16,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-17,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-18,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-19,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-20,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-21,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-22,Dadra and Nagar Haveli,1,1,0, 0,0
+2020-05-23,Dadra and Nagar Haveli,2,1,0,1,0
+2020-05-24,Dadra and Nagar Haveli,2,1,0, 0,0
+2020-05-25,Dadra and Nagar Haveli,2,1,0, 0,0
+2020-05-26,Dadra and Nagar Haveli,2,1,0, 0,0
+2020-05-27,Dadra and Nagar Haveli,2,1,0, 0,0
+2020-05-28,Dadra and Nagar Haveli,2,1,0, 0,0
+2020-05-29,Dadra and Nagar Haveli,2,1,0, 0,0
+2020-05-30,Dadra and Nagar Haveli,2,1,0, 0,0
+2020-05-31,Dadra and Nagar Haveli,2,1,0, 0,0
+2020-06-01,Dadra and Nagar Haveli,3,1,0,1,0
+2020-06-02,Dadra and Nagar Haveli,3,1,0, 0,0
+2020-06-03,Dadra and Nagar Haveli,11,1,0,8,0
+2020-06-04,Dadra and Nagar Haveli,14,1,0,3,0
+2020-06-05,Dadra and Nagar Haveli,14,1,0, 0,0
+2020-06-06,Dadra and Nagar Haveli,19,1,0,5,0
+2020-06-07,Dadra and Nagar Haveli,20,2,0,1,1
+2020-06-08,Dadra and Nagar Haveli,22,2,0,2,0
+2020-06-09,Dadra and Nagar Haveli,22,2,0, 0,0
+2020-06-09,Daman,2,0,0,2,0
+2020-06-10,Dadra and Nagar Haveli,27,2,0,5,0
+2020-06-10,Daman,2,0,0, 0,0
+2020-06-11,Dadra and Nagar Haveli,28,2,0,1,0
+2020-06-11,Daman,2,0,0, 0,0
+2020-06-12,Dadra and Nagar Haveli,28,2,0, 0,0
+2020-06-12,Daman,2,0,0, 0,0
+2020-06-13,Dadra and Nagar Haveli,29,2,0,1,0
+2020-06-13,Daman,4,0,0,2,0
+2020-06-13,Diu,2,0,0,2,0
+2020-06-14,Dadra and Nagar Haveli,30,2,0,1,0
+2020-06-14,Daman,6,0,0,2,0
+2020-06-14,Diu,2,0,0, 0,0
+2020-06-14,Other State,1,0,0,1,0
+2020-06-15,Dadra and Nagar Haveli,30,2,0, 0,0
+2020-06-15,Daman,6,0,0, 0,0
+2020-06-15,Diu,2,0,0, 0,0
+2020-06-15,Other State,1,0,0, 0,0
+2020-06-16,Dadra and Nagar Haveli,39,9,0,9,7
+2020-06-16,Daman,10,0,0,4,0
+2020-06-16,Diu,3,0,0,1,0
+2020-06-16,Other State,2,0,0,1,0
+2020-06-17,Dadra and Nagar Haveli,44,12,0,5,3
+2020-06-17,Daman,10,0,0, 0,0
+2020-06-17,Diu,3,0,0, 0,0
+2020-06-17,Other State,2,0,0, 0,0
+2020-06-18,Dadra and Nagar Haveli,45,14,0,1,2
+2020-06-18,Daman,13,0,0,3,0
+2020-06-18,Diu,3,0,0, 0,0
+2020-06-18,Other State,2,0,0, 0,0
+2020-06-19,Dadra and Nagar Haveli,49,14,0,4,0
+2020-06-19,Daman,21,0,0,8,0
+2020-06-19,Diu,5,0,0,2,0
+2020-06-19,Other State,2,0,0, 0,0
+2020-06-20,Dadra and Nagar Haveli,55,26,0,6,12
+2020-06-20,Daman,27,0,0,6,0
+2020-06-20,Diu,10,0,0,5,0
+2020-06-20,Other State,2,0,0, 0,0
+2020-06-21,Dadra and Nagar Haveli,59,26,0,4,0
+2020-06-21,Daman,27,1,0, 0,1
+2020-06-21,Diu,11,0,0,1,0
+2020-06-21,Other State,2,0,0, 0,0
+2020-06-22,Dadra and Nagar Haveli,62,26,0,3,0
+2020-06-22,Daman,39,1,0,12,0
+2020-06-22,Diu,11,0,0, 0,0
+2020-06-22,Other State,2,0,0, 0,0
+2020-06-23,Dadra and Nagar Haveli,68,26,0,6,0
+2020-06-23,Daman,41,1,0,2,0
+2020-06-23,Diu,12,0,0,1,0
+2020-06-24,Dadra and Nagar Haveli,68,29,0, 0,3
+2020-06-24,Daman,54,1,0,13,0
+2020-06-24,Diu,12,0,0, 0,0
+2020-06-25,Dadra and Nagar Haveli,79,29,0,11,0
+2020-06-25,Daman,63,7,0,9,6
+2020-06-25,Diu,12,2,0, 0,2
+2020-06-26,Dadra and Nagar Haveli,87,38,0,8,9
+2020-06-26,Daman,70,10,0,7,3
+2020-06-26,Diu,12,2,0, 0,0
+2020-06-27,Dadra and Nagar Haveli,95,43,0,8,5
+2020-06-27,Daman,77,11,0,7,1
+2020-06-27,Diu,12,2,0, 0,0
+2020-06-28,Dadra and Nagar Haveli,96,48,0,1,5
+2020-06-28,Daman,79,19,0,2,8
+2020-06-28,Diu,13,2,0,1,0
+2020-06-29,Dadra and Nagar Haveli,101,48,0,5,0
+2020-06-29,Daman,89,25,0,10,6
+2020-06-29,Diu,13,2,0, 0,0
+2020-06-30,Dadra and Nagar Haveli,107,54,0,6,6
+2020-06-30,Daman,93,26,0,4,1
+2020-06-30,Diu,13,2,0, 0,0
+2020-07-01,Dadra and Nagar Haveli,109,58,0,2,4
+2020-07-01,Daman,106,41,0,13,15
+2020-07-01,Diu,14,10,0,1,8
+2020-07-02,Dadra and Nagar Haveli,124,61,0,15,3
+2020-07-02,Daman,116,41,0,10,0
+2020-07-02,Diu,14,10,0, 0,0
+2020-07-03,Dadra and Nagar Haveli,159,68,0,35,7
+2020-07-03,Daman,130,54,0,14,13
+2020-07-03,Diu,15,11,0,1,1
+2020-07-04,Dadra and Nagar Haveli,173,68,0,14,0
+2020-07-04,Daman,153,63,0,23,9
+2020-07-04,Diu,15,11,0, 0,0

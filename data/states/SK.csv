@@ -1,0 +1,137 @@
+date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
+2020-05-23,South Sikkim,1,0,0,1,0
+2020-05-24,South Sikkim,1,0,0, 0,0
+2020-05-25,South Sikkim,1,0,0, 0,0
+2020-05-26,South Sikkim,1,0,0, 0,0
+2020-05-27,South Sikkim,1,0,0, 0,0
+2020-05-28,South Sikkim,1,0,0, 0,0
+2020-05-29,South Sikkim,1,0,0, 0,0
+2020-05-30,South Sikkim,1,0,0, 0,0
+2020-05-31,South Sikkim,1,0,0, 0,0
+2020-06-01,South Sikkim,1,0,0, 0,0
+2020-06-02,South Sikkim,1,0,0, 0,0
+2020-06-03,East Sikkim,1,0,0,1,0
+2020-06-03,South Sikkim,1,0,0, 0,0
+2020-06-04,East Sikkim,1,0,0, 0,0
+2020-06-04,South Sikkim,1,0,0, 0,0
+2020-06-05,East Sikkim,2,0,0,1,0
+2020-06-05,South Sikkim,1,0,0, 0,0
+2020-06-06,East Sikkim,3,0,0,1,0
+2020-06-06,South Sikkim,1,0,0, 0,0
+2020-06-06,West Sikkim,3,0,0,3,0
+2020-06-07,East Sikkim,3,0,0, 0,0
+2020-06-07,South Sikkim,1,0,0, 0,0
+2020-06-07,West Sikkim,3,0,0, 0,0
+2020-06-08,East Sikkim,3,0,0, 0,0
+2020-06-08,South Sikkim,1,0,0, 0,0
+2020-06-08,West Sikkim,3,0,0, 0,0
+2020-06-09,East Sikkim,3,3,0, 0,3
+2020-06-09,South Sikkim,3,0,0,2,0
+2020-06-09,Unknown,3,0,0,3,0
+2020-06-09,West Sikkim,4,0,0,1,0
+2020-06-10,East Sikkim,3,3,0, 0,0
+2020-06-10,South Sikkim,3,0,0, 0,0
+2020-06-10,Unknown,3,0,0, 0,0
+2020-06-10,West Sikkim,4,0,0, 0,0
+2020-06-11,East Sikkim,3,3,0, 0,0
+2020-06-11,South Sikkim,3,0,0, 0,0
+2020-06-11,Unknown,3,0,0, 0,0
+2020-06-11,West Sikkim,4,0,0, 0,0
+2020-06-12,East Sikkim,17,3,0,14,0
+2020-06-12,South Sikkim,3,0,0, 0,0
+2020-06-12,Unknown,39,0,0,36,0
+2020-06-12,West Sikkim,4,0,0, 0,0
+2020-06-13,East Sikkim,27,4,0,10,1
+2020-06-13,South Sikkim,23,0,0,20,0
+2020-06-13,Unknown,0,0,0,-39,0
+2020-06-13,West Sikkim,13,0,0,9,0
+2020-06-14,East Sikkim,20,4,0,-7,0
+2020-06-14,South Sikkim,27,0,0,4,0
+2020-06-14,Unknown,1,0,0,1,0
+2020-06-14,West Sikkim,20,0,0,7,0
+2020-06-15,East Sikkim,20,4,0, 0,0
+2020-06-15,South Sikkim,27,0,0, 0,0
+2020-06-15,Unknown,1,0,0, 0,0
+2020-06-15,West Sikkim,20,0,0, 0,0
+2020-06-16,East Sikkim,20,4,0, 0,0
+2020-06-16,South Sikkim,27,0,0, 0,0
+2020-06-16,Unknown,1,0,0, 0,0
+2020-06-16,West Sikkim,20,0,0, 0,0
+2020-06-17,East Sikkim,21,4,0,1,0
+2020-06-17,South Sikkim,27,0,0, 0,0
+2020-06-17,Unknown,1,0,0, 0,0
+2020-06-17,West Sikkim,21,0,0,1,0
+2020-06-18,East Sikkim,21,4,0, 0,0
+2020-06-18,South Sikkim,27,0,0, 0,0
+2020-06-18,Unknown,1,1,0, 0,1
+2020-06-18,West Sikkim,21,0,0, 0,0
+2020-06-19,East Sikkim,21,1,0, 0,-3
+2020-06-19,South Sikkim,27,18,0, 0,18
+2020-06-19,Unknown,1,1,0, 0,0
+2020-06-19,West Sikkim,21,1,0, 0,1
+2020-06-20,East Sikkim,21,1,0, 0,0
+2020-06-20,South Sikkim,27,18,0, 0,0
+2020-06-20,Unknown,1,1,0, 0,0
+2020-06-20,West Sikkim,21,1,0, 0,0
+2020-06-21,East Sikkim,25,1,0,4,0
+2020-06-21,South Sikkim,31,18,0,4,0
+2020-06-21,Unknown,1,5,0, 0,4
+2020-06-21,West Sikkim,21,1,0, 0,0
+2020-06-22,East Sikkim,25,1,0, 0,0
+2020-06-22,South Sikkim,31,18,0, 0,0
+2020-06-22,Unknown,1,9,0, 0,4
+2020-06-22,West Sikkim,21,1,0, 0,0
+2020-06-23,East Sikkim,25,1,0, 0,0
+2020-06-23,South Sikkim,31,18,0, 0,0
+2020-06-23,Unknown,2,9,0,1,0
+2020-06-23,West Sikkim,21,1,0, 0,0
+2020-06-24,East Sikkim,25,1,0, 0,0
+2020-06-24,South Sikkim,35,18,0,4,0
+2020-06-24,Unknown,2,10,0, 0,1
+2020-06-24,West Sikkim,21,10,0, 0,9
+2020-06-25,East Sikkim,26,1,0,1,0
+2020-06-25,South Sikkim,36,18,0,1,0
+2020-06-25,Unknown,2,10,0, 0,0
+2020-06-25,West Sikkim,21,10,0, 0,0
+2020-06-26,East Sikkim,27,1,0,1,0
+2020-06-26,North Sikkim,1,0,0,1,0
+2020-06-26,South Sikkim,38,18,0,2,0
+2020-06-26,Unknown,0,10,0,-2,0
+2020-06-26,West Sikkim,21,10,0, 0,0
+2020-06-27,East Sikkim,27,1,0, 0,0
+2020-06-27,North Sikkim,1,0,0, 0,0
+2020-06-27,South Sikkim,38,18,0, 0,0
+2020-06-27,Unknown,0,20,0, 0,10
+2020-06-27,West Sikkim,21,10,0, 0,0
+2020-06-28,East Sikkim,28,12,0,1,0
+2020-06-28,North Sikkim,1,0,0, 0,0
+2020-06-28,South Sikkim,38,26,0, 0,0
+2020-06-28,West Sikkim,21,11,0, 0,0
+2020-06-29,East Sikkim,28,12,0, 0,0
+2020-06-29,North Sikkim,1,0,0, 0,0
+2020-06-29,South Sikkim,38,26,0, 0,0
+2020-06-29,West Sikkim,21,11,0, 0,0
+2020-06-30,East Sikkim,28,12,0, 0,0
+2020-06-30,North Sikkim,1,0,0, 0,0
+2020-06-30,South Sikkim,38,26,0, 0,0
+2020-06-30,West Sikkim,21,12,0, 0,1
+2020-07-01,East Sikkim,29,12,0,1,0
+2020-07-01,North Sikkim,1,1,0, 0,1
+2020-07-01,South Sikkim,38,26,0, 0,0
+2020-07-01,Unknown,0,1,0, 0,1
+2020-07-01,West Sikkim,21,12,0, 0,0
+2020-07-02,East Sikkim,41,14,0,12,2
+2020-07-02,North Sikkim,1,1,0, 0,0
+2020-07-02,South Sikkim,38,26,0, 0,0
+2020-07-02,Unknown,0,0,0, 0,-1
+2020-07-02,West Sikkim,21,11,0, 0,-1
+2020-07-03,East Sikkim,41,14,0, 0,0
+2020-07-03,North Sikkim,1,1,0, 0,0
+2020-07-03,South Sikkim,38,26,0, 0,0
+2020-07-03,Unknown,1,0,0,1,0
+2020-07-03,West Sikkim,21,11,0, 0,0
+2020-07-04,East Sikkim,42,14,0,1,0
+2020-07-04,North Sikkim,1,1,0, 0,0
+2020-07-04,South Sikkim,38,26,0, 0,0
+2020-07-04,Unknown,1,0,0, 0,0
+2020-07-04,West Sikkim,21,11,0, 0,0

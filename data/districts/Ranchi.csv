@@ -60,3 +60,10 @@
 {'date': '2020-05-17', 'confirmed': 104, 'recovered': 83, 'deceased': 2, 'delta_confirmed': 104, 'delta_recovered': 83}
 {'date': '2020-05-18', 'confirmed': 104, 'recovered': 89, 'deceased': 2, 'delta_confirmed': 104, 'delta_recovered': 89}
 {'date': '2020-05-19', 'confirmed': 105, 'recovered': 89, 'deceased': 2, 'delta_confirmed': 105, 'delta_recovered': 89}
+{'date': '2020-06-21', 'confirmed': 198, 'recovered': 139, 'deceased': 5, 'delta_confirmed': 198, 'delta_recovered': 139}
+{'date': '2020-06-22', 'confirmed': 201, 'recovered': 141, 'deceased': 5, 'delta_confirmed': 201, 'delta_recovered': 141}
+{'date': '2020-06-23', 'confirmed': 201, 'recovered': 144, 'deceased': 5, 'delta_confirmed': 201, 'delta_recovered': 144}
+{'date': '2020-06-24', 'confirmed': 202, 'recovered': 148, 'deceased': 5, 'delta_confirmed': 202, 'delta_recovered': 148}
+{'date': '2020-06-25', 'confirmed': 204, 'recovered': 149, 'deceased': 5, 'delta_confirmed': 204, 'delta_recovered': 149}
+{'date': '2020-06-26', 'confirmed': 204, 'recovered': 154, 'deceased': 5, 'delta_confirmed': 204, 'delta_recovered': 154}
+{'date': '2020-06-27', 'confirmed': 207, 'recovered': 158, 'deceased': 5, 'delta_confirmed': 207, 'delta_recovered': 158}

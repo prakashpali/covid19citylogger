@@ -1,0 +1,841 @@
+date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
+2020-04-26,Central Delhi,184,0,0, 0,0
+2020-04-26,East Delhi,38,0,0, 0,0
+2020-04-26,New Delhi,37,0,0, 0,0
+2020-04-26,North Delhi,60,0,0, 0,0
+2020-04-26,North East Delhi,25,0,0, 0,0
+2020-04-26,North West Delhi,32,0,0, 0,0
+2020-04-26,Shahdara,48,0,0, 0,0
+2020-04-26,South Delhi,70,0,0, 0,0
+2020-04-26,South East Delhi,130,0,0, 0,0
+2020-04-26,South West Delhi,42,0,0, 0,0
+2020-04-26,Unknown,2130,877,54, 0,0
+2020-04-26,West Delhi,122,0,0, 0,0
+2020-04-27,Central Delhi,184,0,0, 0,0
+2020-04-27,East Delhi,38,0,0, 0,0
+2020-04-27,New Delhi,37,0,0, 0,0
+2020-04-27,North Delhi,60,0,0, 0,0
+2020-04-27,North East Delhi,25,0,0, 0,0
+2020-04-27,North West Delhi,32,0,0, 0,0
+2020-04-27,Shahdara,48,0,0, 0,0
+2020-04-27,South Delhi,70,0,0, 0,0
+2020-04-27,South East Delhi,130,0,0, 0,0
+2020-04-27,South West Delhi,42,0,0, 0,0
+2020-04-27,Unknown,2320,877,54,190,0
+2020-04-27,West Delhi,122,0,0, 0,0
+2020-04-28,Central Delhi,184,0,0, 0,0
+2020-04-28,East Delhi,38,0,0, 0,0
+2020-04-28,New Delhi,37,0,0, 0,0
+2020-04-28,North Delhi,60,0,0, 0,0
+2020-04-28,North East Delhi,25,0,0, 0,0
+2020-04-28,North West Delhi,32,0,0, 0,0
+2020-04-28,Shahdara,48,0,0, 0,0
+2020-04-28,South Delhi,70,0,0, 0,0
+2020-04-28,South East Delhi,130,0,0, 0,0
+2020-04-28,South West Delhi,42,0,0, 0,0
+2020-04-28,Unknown,2526,1078,54,206,201
+2020-04-28,West Delhi,122,0,0, 0,0
+2020-04-29,Central Delhi,184,0,0, 0,0
+2020-04-29,East Delhi,38,0,0, 0,0
+2020-04-29,New Delhi,37,0,0, 0,0
+2020-04-29,North Delhi,60,0,0, 0,0
+2020-04-29,North East Delhi,25,0,0, 0,0
+2020-04-29,North West Delhi,32,0,0, 0,0
+2020-04-29,Shahdara,48,0,0, 0,0
+2020-04-29,South Delhi,70,0,0, 0,0
+2020-04-29,South East Delhi,130,0,0, 0,0
+2020-04-29,South West Delhi,42,0,0, 0,0
+2020-04-29,Unknown,2651,1092,56,125,14
+2020-04-29,West Delhi,122,0,0, 0,0
+2020-04-30,Central Delhi,184,0,0, 0,0
+2020-04-30,East Delhi,38,0,0, 0,0
+2020-04-30,New Delhi,37,0,0, 0,0
+2020-04-30,North Delhi,60,0,0, 0,0
+2020-04-30,North East Delhi,25,0,0, 0,0
+2020-04-30,North West Delhi,32,0,0, 0,0
+2020-04-30,Shahdara,48,0,0, 0,0
+2020-04-30,South Delhi,70,0,0, 0,0
+2020-04-30,South East Delhi,130,0,0, 0,0
+2020-04-30,South West Delhi,42,0,0, 0,0
+2020-04-30,Unknown,2727,1094,59,76,2
+2020-04-30,West Delhi,122,0,0, 0,0
+2020-05-01,Central Delhi,184,0,0, 0,0
+2020-05-01,East Delhi,38,0,0, 0,0
+2020-05-01,New Delhi,37,0,0, 0,0
+2020-05-01,North Delhi,60,0,0, 0,0
+2020-05-01,North East Delhi,25,0,0, 0,0
+2020-05-01,North West Delhi,32,0,0, 0,0
+2020-05-01,Shahdara,48,0,0, 0,0
+2020-05-01,South Delhi,70,0,0, 0,0
+2020-05-01,South East Delhi,130,0,0, 0,0
+2020-05-01,South West Delhi,42,0,0, 0,0
+2020-05-01,Unknown,2950,1167,61,223,73
+2020-05-01,West Delhi,122,0,0, 0,0
+2020-05-02,Central Delhi,184,0,0, 0,0
+2020-05-02,East Delhi,38,0,0, 0,0
+2020-05-02,New Delhi,37,0,0, 0,0
+2020-05-02,North Delhi,60,0,0, 0,0
+2020-05-02,North East Delhi,25,0,0, 0,0
+2020-05-02,North West Delhi,32,0,0, 0,0
+2020-05-02,Shahdara,48,0,0, 0,0
+2020-05-02,South Delhi,70,0,0, 0,0
+2020-05-02,South East Delhi,130,0,0, 0,0
+2020-05-02,South West Delhi,42,0,0, 0,0
+2020-05-02,Unknown,3334,1256,64,384,89
+2020-05-02,West Delhi,122,0,0, 0,0
+2020-05-03,Central Delhi,184,0,0, 0,0
+2020-05-03,East Delhi,38,0,0, 0,0
+2020-05-03,New Delhi,37,0,0, 0,0
+2020-05-03,North Delhi,60,0,0, 0,0
+2020-05-03,North East Delhi,25,0,0, 0,0
+2020-05-03,North West Delhi,32,0,0, 0,0
+2020-05-03,Shahdara,48,0,0, 0,0
+2020-05-03,South Delhi,70,0,0, 0,0
+2020-05-03,South East Delhi,130,0,0, 0,0
+2020-05-03,South West Delhi,42,0,0, 0,0
+2020-05-03,Unknown,3761,1362,64,427,106
+2020-05-03,West Delhi,122,0,0, 0,0
+2020-05-04,Central Delhi,184,0,0, 0,0
+2020-05-04,East Delhi,38,0,0, 0,0
+2020-05-04,New Delhi,37,0,0, 0,0
+2020-05-04,North Delhi,60,0,0, 0,0
+2020-05-04,North East Delhi,25,0,0, 0,0
+2020-05-04,North West Delhi,32,0,0, 0,0
+2020-05-04,Shahdara,48,0,0, 0,0
+2020-05-04,South Delhi,70,0,0, 0,0
+2020-05-04,South East Delhi,130,0,0, 0,0
+2020-05-04,South West Delhi,42,0,0, 0,0
+2020-05-04,Unknown,4110,1431,64,349,69
+2020-05-04,West Delhi,122,0,0, 0,0
+2020-05-05,Central Delhi,184,0,0, 0,0
+2020-05-05,East Delhi,38,0,0, 0,0
+2020-05-05,New Delhi,37,0,0, 0,0
+2020-05-05,North Delhi,60,0,0, 0,0
+2020-05-05,North East Delhi,25,0,0, 0,0
+2020-05-05,North West Delhi,32,0,0, 0,0
+2020-05-05,Shahdara,48,0,0, 0,0
+2020-05-05,South Delhi,70,0,0, 0,0
+2020-05-05,South East Delhi,130,0,0, 0,0
+2020-05-05,South West Delhi,42,0,0, 0,0
+2020-05-05,Unknown,4316,1468,64,206,37
+2020-05-05,West Delhi,122,0,0, 0,0
+2020-05-06,Central Delhi,184,0,0, 0,0
+2020-05-06,East Delhi,38,0,0, 0,0
+2020-05-06,New Delhi,37,0,0, 0,0
+2020-05-06,North Delhi,60,0,0, 0,0
+2020-05-06,North East Delhi,25,0,0, 0,0
+2020-05-06,North West Delhi,32,0,1, 0,0
+2020-05-06,Shahdara,48,0,0, 0,0
+2020-05-06,South Delhi,70,0,0, 0,0
+2020-05-06,South East Delhi,130,0,0, 0,0
+2020-05-06,South West Delhi,42,0,0, 0,0
+2020-05-06,Unknown,4744,1542,64,428,74
+2020-05-06,West Delhi,122,0,0, 0,0
+2020-05-07,Central Delhi,184,0,0, 0,0
+2020-05-07,East Delhi,38,0,0, 0,0
+2020-05-07,New Delhi,37,0,0, 0,0
+2020-05-07,North Delhi,60,0,0, 0,0
+2020-05-07,North East Delhi,25,0,0, 0,0
+2020-05-07,North West Delhi,32,0,1, 0,0
+2020-05-07,Shahdara,48,0,0, 0,0
+2020-05-07,South Delhi,70,0,0, 0,0
+2020-05-07,South East Delhi,130,0,0, 0,0
+2020-05-07,South West Delhi,42,0,0, 0,0
+2020-05-07,Unknown,5192,1931,65,448,389
+2020-05-07,West Delhi,122,0,0, 0,0
+2020-05-08,Central Delhi,184,0,0, 0,0
+2020-05-08,East Delhi,38,0,0, 0,0
+2020-05-08,New Delhi,37,0,0, 0,0
+2020-05-08,North Delhi,60,0,0, 0,0
+2020-05-08,North East Delhi,25,0,0, 0,0
+2020-05-08,North West Delhi,32,0,1, 0,0
+2020-05-08,Shahdara,48,0,0, 0,0
+2020-05-08,South Delhi,70,0,0, 0,0
+2020-05-08,South East Delhi,130,0,0, 0,0
+2020-05-08,South West Delhi,42,0,0, 0,0
+2020-05-08,Unknown,5530,2020,67,338,89
+2020-05-08,West Delhi,122,0,0, 0,0
+2020-05-09,Central Delhi,184,0,0, 0,0
+2020-05-09,East Delhi,38,0,0, 0,0
+2020-05-09,New Delhi,37,0,0, 0,0
+2020-05-09,North Delhi,60,0,0, 0,0
+2020-05-09,North East Delhi,25,0,0, 0,0
+2020-05-09,North West Delhi,32,0,1, 0,0
+2020-05-09,Shahdara,48,0,0, 0,0
+2020-05-09,South Delhi,70,0,0, 0,0
+2020-05-09,South East Delhi,130,0,0, 0,0
+2020-05-09,South West Delhi,42,0,0, 0,0
+2020-05-09,Unknown,5754,2020,67,224,0
+2020-05-09,West Delhi,122,0,0, 0,0
+2020-05-10,Central Delhi,184,0,0, 0,0
+2020-05-10,East Delhi,38,0,0, 0,0
+2020-05-10,New Delhi,37,0,0, 0,0
+2020-05-10,North Delhi,60,0,0, 0,0
+2020-05-10,North East Delhi,25,0,0, 0,0
+2020-05-10,North West Delhi,32,0,1, 0,0
+2020-05-10,Shahdara,48,0,0, 0,0
+2020-05-10,South Delhi,70,0,0, 0,0
+2020-05-10,South East Delhi,130,0,0, 0,0
+2020-05-10,South West Delhi,42,0,0, 0,0
+2020-05-10,Unknown,6135,2069,72,381,49
+2020-05-10,West Delhi,122,0,0, 0,0
+2020-05-11,Central Delhi,184,0,0, 0,0
+2020-05-11,East Delhi,38,0,0, 0,0
+2020-05-11,New Delhi,37,0,0, 0,0
+2020-05-11,North Delhi,60,0,0, 0,0
+2020-05-11,North East Delhi,25,0,0, 0,0
+2020-05-11,North West Delhi,32,0,1, 0,0
+2020-05-11,Shahdara,48,0,0, 0,0
+2020-05-11,South Delhi,70,0,0, 0,0
+2020-05-11,South East Delhi,130,0,0, 0,0
+2020-05-11,South West Delhi,42,0,0, 0,0
+2020-05-11,Unknown,6445,2129,72,310,60
+2020-05-11,West Delhi,122,0,0, 0,0
+2020-05-12,Central Delhi,184,0,0, 0,0
+2020-05-12,East Delhi,38,0,0, 0,0
+2020-05-12,New Delhi,37,0,0, 0,0
+2020-05-12,North Delhi,60,0,0, 0,0
+2020-05-12,North East Delhi,25,0,0, 0,0
+2020-05-12,North West Delhi,32,0,1, 0,0
+2020-05-12,Shahdara,48,0,0, 0,0
+2020-05-12,South Delhi,70,0,0, 0,0
+2020-05-12,South East Delhi,130,0,0, 0,0
+2020-05-12,South West Delhi,42,0,0, 0,0
+2020-05-12,Unknown,6851,2512,85,406,383
+2020-05-12,West Delhi,122,0,0, 0,0
+2020-05-13,Central Delhi,184,0,0, 0,0
+2020-05-13,East Delhi,38,0,0, 0,0
+2020-05-13,New Delhi,37,0,0, 0,0
+2020-05-13,North Delhi,60,0,0, 0,0
+2020-05-13,North East Delhi,25,0,0, 0,0
+2020-05-13,North West Delhi,32,0,1, 0,0
+2020-05-13,Shahdara,48,0,0, 0,0
+2020-05-13,South Delhi,70,0,0, 0,0
+2020-05-13,South East Delhi,130,0,0, 0,0
+2020-05-13,South West Delhi,42,0,0, 0,0
+2020-05-13,Unknown,7210,2858,105,359,346
+2020-05-13,West Delhi,122,0,0, 0,0
+2020-05-14,Central Delhi,184,0,0, 0,0
+2020-05-14,East Delhi,38,0,0, 0,0
+2020-05-14,New Delhi,37,0,0, 0,0
+2020-05-14,North Delhi,60,0,0, 0,0
+2020-05-14,North East Delhi,25,0,0, 0,0
+2020-05-14,North West Delhi,32,0,1, 0,0
+2020-05-14,Shahdara,48,0,0, 0,0
+2020-05-14,South Delhi,70,0,0, 0,0
+2020-05-14,South East Delhi,130,0,0, 0,0
+2020-05-14,South West Delhi,42,0,0, 0,0
+2020-05-14,Unknown,7682,3045,114,472,187
+2020-05-14,West Delhi,122,0,0, 0,0
+2020-05-15,Central Delhi,184,0,0, 0,0
+2020-05-15,East Delhi,38,0,0, 0,0
+2020-05-15,New Delhi,37,0,0, 0,0
+2020-05-15,North Delhi,60,0,0, 0,0
+2020-05-15,North East Delhi,25,0,0, 0,0
+2020-05-15,North West Delhi,32,0,1, 0,0
+2020-05-15,Shahdara,48,0,0, 0,0
+2020-05-15,South Delhi,70,0,0, 0,0
+2020-05-15,South East Delhi,130,0,0, 0,0
+2020-05-15,South West Delhi,42,0,0, 0,0
+2020-05-15,Unknown,8107,3518,122,425,473
+2020-05-15,West Delhi,122,0,0, 0,0
+2020-05-16,Central Delhi,184,0,0, 0,0
+2020-05-16,East Delhi,38,0,0, 0,0
+2020-05-16,New Delhi,37,0,0, 0,0
+2020-05-16,North Delhi,60,0,0, 0,0
+2020-05-16,North East Delhi,25,0,0, 0,0
+2020-05-16,North West Delhi,32,0,1, 0,0
+2020-05-16,Shahdara,48,0,0, 0,0
+2020-05-16,South Delhi,70,0,0, 0,0
+2020-05-16,South East Delhi,130,0,0, 0,0
+2020-05-16,South West Delhi,42,0,0, 0,0
+2020-05-16,Unknown,8545,3926,128,438,408
+2020-05-16,West Delhi,122,0,0, 0,0
+2020-05-17,Central Delhi,184,0,0, 0,0
+2020-05-17,East Delhi,38,0,0, 0,0
+2020-05-17,New Delhi,37,0,0, 0,0
+2020-05-17,North Delhi,60,0,0, 0,0
+2020-05-17,North East Delhi,25,0,0, 0,0
+2020-05-17,North West Delhi,32,0,1, 0,0
+2020-05-17,Shahdara,48,0,0, 0,0
+2020-05-17,South Delhi,70,0,0, 0,0
+2020-05-17,South East Delhi,130,0,0, 0,0
+2020-05-17,South West Delhi,42,0,0, 0,0
+2020-05-17,Unknown,8967,4202,147,422,276
+2020-05-17,West Delhi,122,0,0, 0,0
+2020-05-18,Central Delhi,184,0,0, 0,0
+2020-05-18,East Delhi,38,0,0, 0,0
+2020-05-18,New Delhi,37,0,0, 0,0
+2020-05-18,North Delhi,60,0,0, 0,0
+2020-05-18,North East Delhi,25,0,0, 0,0
+2020-05-18,North West Delhi,32,0,1, 0,0
+2020-05-18,Shahdara,48,0,0, 0,0
+2020-05-18,South Delhi,70,0,0, 0,0
+2020-05-18,South East Delhi,130,0,0, 0,0
+2020-05-18,South West Delhi,42,0,0, 0,0
+2020-05-18,Unknown,9266,4485,159,299,283
+2020-05-18,West Delhi,122,0,0, 0,0
+2020-05-19,Central Delhi,184,0,0, 0,0
+2020-05-19,East Delhi,38,0,0, 0,0
+2020-05-19,New Delhi,37,0,0, 0,0
+2020-05-19,North Delhi,60,0,0, 0,0
+2020-05-19,North East Delhi,25,0,0, 0,0
+2020-05-19,North West Delhi,32,0,1, 0,0
+2020-05-19,Shahdara,48,0,0, 0,0
+2020-05-19,South Delhi,70,0,0, 0,0
+2020-05-19,South East Delhi,130,0,0, 0,0
+2020-05-19,South West Delhi,42,0,0, 0,0
+2020-05-19,Unknown,9766,4750,165,500,265
+2020-05-19,West Delhi,122,0,0, 0,0
+2020-05-20,Central Delhi,184,0,0, 0,0
+2020-05-20,East Delhi,38,0,0, 0,0
+2020-05-20,New Delhi,37,0,0, 0,0
+2020-05-20,North Delhi,60,0,0, 0,0
+2020-05-20,North East Delhi,25,0,0, 0,0
+2020-05-20,North West Delhi,32,0,1, 0,0
+2020-05-20,Shahdara,48,0,0, 0,0
+2020-05-20,South Delhi,70,0,0, 0,0
+2020-05-20,South East Delhi,130,0,0, 0,0
+2020-05-20,South West Delhi,42,0,0, 0,0
+2020-05-20,Unknown,10300,5192,175,534,442
+2020-05-20,West Delhi,122,0,0, 0,0
+2020-05-21,Central Delhi,184,0,0, 0,0
+2020-05-21,East Delhi,38,0,0, 0,0
+2020-05-21,New Delhi,37,0,0, 0,0
+2020-05-21,North Delhi,60,0,0, 0,0
+2020-05-21,North East Delhi,25,0,0, 0,0
+2020-05-21,North West Delhi,32,0,1, 0,0
+2020-05-21,Shahdara,48,0,0, 0,0
+2020-05-21,South Delhi,70,0,0, 0,0
+2020-05-21,South East Delhi,130,0,0, 0,0
+2020-05-21,South West Delhi,42,0,0, 0,0
+2020-05-21,Unknown,10871,5567,193,571,375
+2020-05-21,West Delhi,122,0,0, 0,0
+2020-05-22,Central Delhi,184,0,0, 0,0
+2020-05-22,East Delhi,38,0,0, 0,0
+2020-05-22,New Delhi,37,0,0, 0,0
+2020-05-22,North Delhi,60,0,0, 0,0
+2020-05-22,North East Delhi,25,0,0, 0,0
+2020-05-22,North West Delhi,32,0,1, 0,0
+2020-05-22,Shahdara,48,0,0, 0,0
+2020-05-22,South Delhi,70,0,0, 0,0
+2020-05-22,South East Delhi,130,0,0, 0,0
+2020-05-22,South West Delhi,42,0,0, 0,0
+2020-05-22,Unknown,11531,5897,207,660,330
+2020-05-22,West Delhi,122,0,0, 0,0
+2020-05-23,Central Delhi,184,0,0, 0,0
+2020-05-23,East Delhi,38,0,0, 0,0
+2020-05-23,New Delhi,37,0,0, 0,0
+2020-05-23,North Delhi,60,0,0, 0,0
+2020-05-23,North East Delhi,25,0,0, 0,0
+2020-05-23,North West Delhi,32,0,1, 0,0
+2020-05-23,Shahdara,48,0,0, 0,0
+2020-05-23,South Delhi,70,0,0, 0,0
+2020-05-23,South East Delhi,130,0,0, 0,0
+2020-05-23,South West Delhi,42,0,0, 0,0
+2020-05-23,Unknown,12122,6267,230,591,370
+2020-05-23,West Delhi,122,0,0, 0,0
+2020-05-24,Central Delhi,184,0,0, 0,0
+2020-05-24,East Delhi,38,0,0, 0,0
+2020-05-24,New Delhi,37,0,0, 0,0
+2020-05-24,North Delhi,60,0,0, 0,0
+2020-05-24,North East Delhi,25,0,0, 0,0
+2020-05-24,North West Delhi,32,0,1, 0,0
+2020-05-24,Shahdara,48,0,0, 0,0
+2020-05-24,South Delhi,70,0,0, 0,0
+2020-05-24,South East Delhi,130,0,0, 0,0
+2020-05-24,South West Delhi,42,0,0, 0,0
+2020-05-24,Unknown,12630,6540,260,508,273
+2020-05-24,West Delhi,122,0,0, 0,0
+2020-05-25,Central Delhi,184,0,0, 0,0
+2020-05-25,East Delhi,38,0,0, 0,0
+2020-05-25,New Delhi,37,0,0, 0,0
+2020-05-25,North Delhi,60,0,0, 0,0
+2020-05-25,North East Delhi,25,0,0, 0,0
+2020-05-25,North West Delhi,32,0,1, 0,0
+2020-05-25,Shahdara,48,0,0, 0,0
+2020-05-25,South Delhi,70,0,0, 0,0
+2020-05-25,South East Delhi,130,0,0, 0,0
+2020-05-25,South West Delhi,42,0,0, 0,0
+2020-05-25,Unknown,13265,6771,275,635,231
+2020-05-25,West Delhi,122,0,0, 0,0
+2020-05-26,Central Delhi,184,0,0, 0,0
+2020-05-26,East Delhi,38,0,0, 0,0
+2020-05-26,New Delhi,37,0,0, 0,0
+2020-05-26,North Delhi,60,0,0, 0,0
+2020-05-26,North East Delhi,25,0,0, 0,0
+2020-05-26,North West Delhi,32,0,1, 0,0
+2020-05-26,Shahdara,48,0,0, 0,0
+2020-05-26,South Delhi,70,0,0, 0,0
+2020-05-26,South East Delhi,130,0,0, 0,0
+2020-05-26,South West Delhi,42,0,0, 0,0
+2020-05-26,Unknown,13677,6954,287,412,183
+2020-05-26,West Delhi,122,0,0, 0,0
+2020-05-27,Central Delhi,184,0,0, 0,0
+2020-05-27,East Delhi,38,0,0, 0,0
+2020-05-27,New Delhi,37,0,0, 0,0
+2020-05-27,North Delhi,60,0,0, 0,0
+2020-05-27,North East Delhi,25,0,0, 0,0
+2020-05-27,North West Delhi,32,0,1, 0,0
+2020-05-27,Shahdara,48,0,0, 0,0
+2020-05-27,South Delhi,70,0,0, 0,0
+2020-05-27,South East Delhi,130,0,0, 0,0
+2020-05-27,South West Delhi,42,0,0, 0,0
+2020-05-27,Unknown,14469,7264,302,792,310
+2020-05-27,West Delhi,122,0,0, 0,0
+2020-05-28,Central Delhi,184,0,0, 0,0
+2020-05-28,East Delhi,38,0,0, 0,0
+2020-05-28,New Delhi,37,0,0, 0,0
+2020-05-28,North Delhi,60,0,0, 0,0
+2020-05-28,North East Delhi,25,0,0, 0,0
+2020-05-28,North West Delhi,32,0,1, 0,0
+2020-05-28,Shahdara,48,0,0, 0,0
+2020-05-28,South Delhi,70,0,0, 0,0
+2020-05-28,South East Delhi,130,0,0, 0,0
+2020-05-28,South West Delhi,42,0,0, 0,0
+2020-05-28,Unknown,15493,7495,315,1024,231
+2020-05-28,West Delhi,122,0,0, 0,0
+2020-05-29,Central Delhi,184,0,0, 0,0
+2020-05-29,East Delhi,38,0,0, 0,0
+2020-05-29,New Delhi,37,0,0, 0,0
+2020-05-29,North Delhi,60,0,0, 0,0
+2020-05-29,North East Delhi,25,0,0, 0,0
+2020-05-29,North West Delhi,32,0,1, 0,0
+2020-05-29,Shahdara,48,0,0, 0,0
+2020-05-29,South Delhi,70,0,0, 0,0
+2020-05-29,South East Delhi,130,0,0, 0,0
+2020-05-29,South West Delhi,42,0,0, 0,0
+2020-05-29,Unknown,16598,7846,397,1105,351
+2020-05-29,West Delhi,122,0,0, 0,0
+2020-05-30,Central Delhi,184,0,0, 0,0
+2020-05-30,East Delhi,38,0,0, 0,0
+2020-05-30,New Delhi,37,0,0, 0,0
+2020-05-30,North Delhi,60,0,0, 0,0
+2020-05-30,North East Delhi,25,0,0, 0,0
+2020-05-30,North West Delhi,32,0,1, 0,0
+2020-05-30,Shahdara,48,0,0, 0,0
+2020-05-30,South Delhi,70,0,0, 0,0
+2020-05-30,South East Delhi,130,0,0, 0,0
+2020-05-30,South West Delhi,42,0,0, 0,0
+2020-05-30,Unknown,17761,8075,415,1163,229
+2020-05-30,West Delhi,122,0,0, 0,0
+2020-05-31,Central Delhi,184,0,0, 0,0
+2020-05-31,East Delhi,38,0,0, 0,0
+2020-05-31,New Delhi,37,0,0, 0,0
+2020-05-31,North Delhi,60,0,0, 0,0
+2020-05-31,North East Delhi,25,0,0, 0,0
+2020-05-31,North West Delhi,32,0,1, 0,0
+2020-05-31,Shahdara,48,0,0, 0,0
+2020-05-31,South Delhi,70,0,0, 0,0
+2020-05-31,South East Delhi,130,0,0, 0,0
+2020-05-31,South West Delhi,42,0,0, 0,0
+2020-05-31,Unknown,19056,8478,472,1295,403
+2020-05-31,West Delhi,122,0,0, 0,0
+2020-06-01,Central Delhi,184,0,0, 0,0
+2020-06-01,East Delhi,38,0,0, 0,0
+2020-06-01,New Delhi,37,0,0, 0,0
+2020-06-01,North Delhi,60,0,0, 0,0
+2020-06-01,North East Delhi,25,0,0, 0,0
+2020-06-01,North West Delhi,32,0,1, 0,0
+2020-06-01,Shahdara,48,0,0, 0,0
+2020-06-01,South Delhi,70,0,0, 0,0
+2020-06-01,South East Delhi,130,0,0, 0,0
+2020-06-01,South West Delhi,42,0,0, 0,0
+2020-06-01,Unknown,20046,8746,522,990,268
+2020-06-01,West Delhi,122,0,0, 0,0
+2020-06-02,Central Delhi,184,0,0, 0,0
+2020-06-02,East Delhi,38,0,0, 0,0
+2020-06-02,New Delhi,37,0,0, 0,0
+2020-06-02,North Delhi,60,0,0, 0,0
+2020-06-02,North East Delhi,25,0,0, 0,0
+2020-06-02,North West Delhi,32,0,1, 0,0
+2020-06-02,Shahdara,48,0,0, 0,0
+2020-06-02,South Delhi,70,0,0, 0,0
+2020-06-02,South East Delhi,130,0,0, 0,0
+2020-06-02,South West Delhi,42,0,0, 0,0
+2020-06-02,Unknown,21344,9243,555,1298,497
+2020-06-02,West Delhi,122,0,0, 0,0
+2020-06-03,Central Delhi,184,0,0, 0,0
+2020-06-03,East Delhi,38,0,0, 0,0
+2020-06-03,New Delhi,37,0,0, 0,0
+2020-06-03,North Delhi,60,0,0, 0,0
+2020-06-03,North East Delhi,25,0,0, 0,0
+2020-06-03,North West Delhi,32,0,1, 0,0
+2020-06-03,Shahdara,48,0,0, 0,0
+2020-06-03,South Delhi,70,0,0, 0,0
+2020-06-03,South East Delhi,130,0,0, 0,0
+2020-06-03,South West Delhi,42,0,0, 0,0
+2020-06-03,Unknown,22857,9542,614,1513,299
+2020-06-03,West Delhi,122,0,0, 0,0
+2020-06-04,Central Delhi,184,0,0, 0,0
+2020-06-04,East Delhi,38,0,0, 0,0
+2020-06-04,New Delhi,37,0,0, 0,0
+2020-06-04,North Delhi,60,0,0, 0,0
+2020-06-04,North East Delhi,25,0,0, 0,0
+2020-06-04,North West Delhi,32,0,1, 0,0
+2020-06-04,Shahdara,48,0,0, 0,0
+2020-06-04,South Delhi,70,0,0, 0,0
+2020-06-04,South East Delhi,130,0,0, 0,0
+2020-06-04,South West Delhi,42,0,0, 0,0
+2020-06-04,Unknown,24216,9898,658,1359,356
+2020-06-04,West Delhi,122,0,0, 0,0
+2020-06-05,Central Delhi,184,0,0, 0,0
+2020-06-05,East Delhi,38,0,0, 0,0
+2020-06-05,New Delhi,37,0,0, 0,0
+2020-06-05,North Delhi,60,0,0, 0,0
+2020-06-05,North East Delhi,25,0,0, 0,0
+2020-06-05,North West Delhi,32,0,1, 0,0
+2020-06-05,Shahdara,48,0,0, 0,0
+2020-06-05,South Delhi,70,0,0, 0,0
+2020-06-05,South East Delhi,130,0,0, 0,0
+2020-06-05,South West Delhi,42,0,0, 0,0
+2020-06-05,Unknown,25546,10315,707,1330,417
+2020-06-05,West Delhi,122,0,0, 0,0
+2020-06-06,Central Delhi,184,0,0, 0,0
+2020-06-06,East Delhi,38,0,0, 0,0
+2020-06-06,New Delhi,37,0,0, 0,0
+2020-06-06,North Delhi,60,0,0, 0,0
+2020-06-06,North East Delhi,25,0,0, 0,0
+2020-06-06,North West Delhi,32,0,1, 0,0
+2020-06-06,Shahdara,48,0,0, 0,0
+2020-06-06,South Delhi,70,0,0, 0,0
+2020-06-06,South East Delhi,130,0,0, 0,0
+2020-06-06,South West Delhi,42,0,0, 0,0
+2020-06-06,Unknown,26866,10664,760,1320,349
+2020-06-06,West Delhi,122,0,0, 0,0
+2020-06-07,Central Delhi,184,0,0, 0,0
+2020-06-07,East Delhi,38,0,0, 0,0
+2020-06-07,New Delhi,37,0,0, 0,0
+2020-06-07,North Delhi,60,0,0, 0,0
+2020-06-07,North East Delhi,25,0,0, 0,0
+2020-06-07,North West Delhi,32,0,1, 0,0
+2020-06-07,Shahdara,48,0,0, 0,0
+2020-06-07,South Delhi,70,0,0, 0,0
+2020-06-07,South East Delhi,130,0,0, 0,0
+2020-06-07,South West Delhi,42,0,0, 0,0
+2020-06-07,Unknown,28148,10999,811,1282,335
+2020-06-07,West Delhi,122,0,0, 0,0
+2020-06-08,Central Delhi,184,0,0, 0,0
+2020-06-08,East Delhi,38,0,0, 0,0
+2020-06-08,New Delhi,37,0,0, 0,0
+2020-06-08,North Delhi,60,0,0, 0,0
+2020-06-08,North East Delhi,25,0,0, 0,0
+2020-06-08,North West Delhi,32,0,1, 0,0
+2020-06-08,Shahdara,48,0,0, 0,0
+2020-06-08,South Delhi,70,0,0, 0,0
+2020-06-08,South East Delhi,130,0,0, 0,0
+2020-06-08,South West Delhi,42,0,0, 0,0
+2020-06-08,Unknown,29155,11357,873,1007,358
+2020-06-08,West Delhi,122,0,0, 0,0
+2020-06-09,Central Delhi,184,0,0, 0,0
+2020-06-09,East Delhi,38,0,0, 0,0
+2020-06-09,New Delhi,37,0,0, 0,0
+2020-06-09,North Delhi,60,0,0, 0,0
+2020-06-09,North East Delhi,25,0,0, 0,0
+2020-06-09,North West Delhi,32,0,1, 0,0
+2020-06-09,Shahdara,48,0,0, 0,0
+2020-06-09,South Delhi,70,0,0, 0,0
+2020-06-09,South East Delhi,130,0,0, 0,0
+2020-06-09,South West Delhi,42,0,0, 0,0
+2020-06-09,Unknown,30521,11861,904,1366,504
+2020-06-09,West Delhi,122,0,0, 0,0
+2020-06-10,Central Delhi,184,0,0, 0,0
+2020-06-10,East Delhi,38,0,0, 0,0
+2020-06-10,New Delhi,37,0,0, 0,0
+2020-06-10,North Delhi,60,0,0, 0,0
+2020-06-10,North East Delhi,25,0,0, 0,0
+2020-06-10,North West Delhi,32,0,1, 0,0
+2020-06-10,Shahdara,48,0,0, 0,0
+2020-06-10,South Delhi,70,0,0, 0,0
+2020-06-10,South East Delhi,130,0,0, 0,0
+2020-06-10,South West Delhi,42,0,0, 0,0
+2020-06-10,Unknown,32022,12245,983,1501,384
+2020-06-10,West Delhi,122,0,0, 0,0
+2020-06-11,Central Delhi,184,0,0, 0,0
+2020-06-11,East Delhi,38,0,0, 0,0
+2020-06-11,New Delhi,37,0,0, 0,0
+2020-06-11,North Delhi,60,0,0, 0,0
+2020-06-11,North East Delhi,25,0,0, 0,0
+2020-06-11,North West Delhi,32,0,1, 0,0
+2020-06-11,Shahdara,48,0,0, 0,0
+2020-06-11,South Delhi,70,0,0, 0,0
+2020-06-11,South East Delhi,130,0,0, 0,0
+2020-06-11,South West Delhi,42,0,0, 0,0
+2020-06-11,Unknown,33899,12731,1084,1877,486
+2020-06-11,West Delhi,122,0,0, 0,0
+2020-06-12,Central Delhi,184,0,0, 0,0
+2020-06-12,East Delhi,38,0,0, 0,0
+2020-06-12,New Delhi,37,0,0, 0,0
+2020-06-12,North Delhi,60,0,0, 0,0
+2020-06-12,North East Delhi,25,0,0, 0,0
+2020-06-12,North West Delhi,32,0,1, 0,0
+2020-06-12,Shahdara,48,0,0, 0,0
+2020-06-12,South Delhi,70,0,0, 0,0
+2020-06-12,South East Delhi,130,0,0, 0,0
+2020-06-12,South West Delhi,42,0,0, 0,0
+2020-06-12,Unknown,36036,13398,1213,2137,667
+2020-06-12,West Delhi,122,0,0, 0,0
+2020-06-13,Central Delhi,184,0,0, 0,0
+2020-06-13,East Delhi,38,0,0, 0,0
+2020-06-13,New Delhi,37,0,0, 0,0
+2020-06-13,North Delhi,60,0,0, 0,0
+2020-06-13,North East Delhi,25,0,0, 0,0
+2020-06-13,North West Delhi,32,0,1, 0,0
+2020-06-13,Shahdara,48,0,0, 0,0
+2020-06-13,South Delhi,70,0,0, 0,0
+2020-06-13,South East Delhi,130,0,0, 0,0
+2020-06-13,South West Delhi,42,0,0, 0,0
+2020-06-13,Unknown,38170,14945,1270,2134,1547
+2020-06-13,West Delhi,122,0,0, 0,0
+2020-06-14,Central Delhi,184,0,0, 0,0
+2020-06-14,East Delhi,38,0,0, 0,0
+2020-06-14,New Delhi,37,0,0, 0,0
+2020-06-14,North Delhi,60,0,0, 0,0
+2020-06-14,North East Delhi,25,0,0, 0,0
+2020-06-14,North West Delhi,32,0,1, 0,0
+2020-06-14,Shahdara,48,0,0, 0,0
+2020-06-14,South Delhi,70,0,0, 0,0
+2020-06-14,South East Delhi,130,0,0, 0,0
+2020-06-14,South West Delhi,42,0,0, 0,0
+2020-06-14,Unknown,40394,15823,1326,2224,878
+2020-06-14,West Delhi,122,0,0, 0,0
+2020-06-15,Central Delhi,184,0,0, 0,0
+2020-06-15,East Delhi,38,0,0, 0,0
+2020-06-15,New Delhi,37,0,0, 0,0
+2020-06-15,North Delhi,60,0,0, 0,0
+2020-06-15,North East Delhi,25,0,0, 0,0
+2020-06-15,North West Delhi,32,0,1, 0,0
+2020-06-15,Shahdara,48,0,0, 0,0
+2020-06-15,South Delhi,70,0,0, 0,0
+2020-06-15,South East Delhi,130,0,0, 0,0
+2020-06-15,South West Delhi,42,0,0, 0,0
+2020-06-15,Unknown,42041,16427,1399,1647,604
+2020-06-15,West Delhi,122,0,0, 0,0
+2020-06-16,Central Delhi,184,0,0, 0,0
+2020-06-16,East Delhi,38,0,0, 0,0
+2020-06-16,New Delhi,37,0,0, 0,0
+2020-06-16,North Delhi,60,0,0, 0,0
+2020-06-16,North East Delhi,25,0,0, 0,0
+2020-06-16,North West Delhi,32,0,1, 0,0
+2020-06-16,Shahdara,48,0,0, 0,0
+2020-06-16,South Delhi,70,0,0, 0,0
+2020-06-16,South East Delhi,130,0,0, 0,0
+2020-06-16,South West Delhi,42,0,0, 0,0
+2020-06-16,Unknown,43900,16500,1836,1859,73
+2020-06-16,West Delhi,122,0,0, 0,0
+2020-06-17,Central Delhi,184,0,0, 0,0
+2020-06-17,East Delhi,38,0,0, 0,0
+2020-06-17,New Delhi,37,0,0, 0,0
+2020-06-17,North Delhi,60,0,0, 0,0
+2020-06-17,North East Delhi,25,0,0, 0,0
+2020-06-17,North West Delhi,32,0,1, 0,0
+2020-06-17,Shahdara,48,0,0, 0,0
+2020-06-17,South Delhi,70,0,0, 0,0
+2020-06-17,South East Delhi,130,0,0, 0,0
+2020-06-17,South West Delhi,42,0,0, 0,0
+2020-06-17,Unknown,46314,17457,1903,2414,957
+2020-06-17,West Delhi,122,0,0, 0,0
+2020-06-18,Central Delhi,184,0,0, 0,0
+2020-06-18,East Delhi,38,0,0, 0,0
+2020-06-18,New Delhi,37,0,0, 0,0
+2020-06-18,North Delhi,60,0,0, 0,0
+2020-06-18,North East Delhi,25,0,0, 0,0
+2020-06-18,North West Delhi,32,0,1, 0,0
+2020-06-18,Shahdara,48,0,0, 0,0
+2020-06-18,South Delhi,70,0,0, 0,0
+2020-06-18,South East Delhi,130,0,0, 0,0
+2020-06-18,South West Delhi,42,0,0, 0,0
+2020-06-18,Unknown,49191,21341,1968,2877,3884
+2020-06-18,West Delhi,122,0,0, 0,0
+2020-06-19,Central Delhi,184,0,0, 0,0
+2020-06-19,East Delhi,38,0,0, 0,0
+2020-06-19,New Delhi,37,0,0, 0,0
+2020-06-19,North Delhi,60,0,0, 0,0
+2020-06-19,North East Delhi,25,0,0, 0,0
+2020-06-19,North West Delhi,32,0,1, 0,0
+2020-06-19,Shahdara,48,0,0, 0,0
+2020-06-19,South Delhi,70,0,0, 0,0
+2020-06-19,South East Delhi,130,0,0, 0,0
+2020-06-19,South West Delhi,42,0,0, 0,0
+2020-06-19,Unknown,52328,23569,2034,3137,2228
+2020-06-19,West Delhi,122,0,0, 0,0
+2020-06-20,Central Delhi,184,0,0, 0,0
+2020-06-20,East Delhi,38,0,0, 0,0
+2020-06-20,New Delhi,37,0,0, 0,0
+2020-06-20,North Delhi,60,0,0, 0,0
+2020-06-20,North East Delhi,25,0,0, 0,0
+2020-06-20,North West Delhi,32,0,1, 0,0
+2020-06-20,Shahdara,48,0,0, 0,0
+2020-06-20,South Delhi,70,0,0, 0,0
+2020-06-20,South East Delhi,130,0,0, 0,0
+2020-06-20,South West Delhi,42,0,0, 0,0
+2020-06-20,Unknown,55958,31294,2111,3630,7725
+2020-06-20,West Delhi,122,0,0, 0,0
+2020-06-21,Central Delhi,184,0,0, 0,0
+2020-06-21,East Delhi,38,0,0, 0,0
+2020-06-21,New Delhi,37,0,0, 0,0
+2020-06-21,North Delhi,60,0,0, 0,0
+2020-06-21,North East Delhi,25,0,0, 0,0
+2020-06-21,North West Delhi,32,0,1, 0,0
+2020-06-21,Shahdara,48,0,0, 0,0
+2020-06-21,South Delhi,70,0,0, 0,0
+2020-06-21,South East Delhi,130,0,0, 0,0
+2020-06-21,South West Delhi,42,0,0, 0,0
+2020-06-21,Unknown,58958,33013,2174,3000,1719
+2020-06-21,West Delhi,122,0,0, 0,0
+2020-06-22,Central Delhi,184,0,0, 0,0
+2020-06-22,East Delhi,38,0,0, 0,0
+2020-06-22,New Delhi,37,0,0, 0,0
+2020-06-22,North Delhi,60,0,0, 0,0
+2020-06-22,North East Delhi,25,0,0, 0,0
+2020-06-22,North West Delhi,32,0,1, 0,0
+2020-06-22,Shahdara,48,0,0, 0,0
+2020-06-22,South Delhi,70,0,0, 0,0
+2020-06-22,South East Delhi,130,0,0, 0,0
+2020-06-22,South West Delhi,42,0,0, 0,0
+2020-06-22,Unknown,61867,36602,2232,2909,3589
+2020-06-22,West Delhi,122,0,0, 0,0
+2020-06-23,Central Delhi,184,0,0, 0,0
+2020-06-23,East Delhi,38,0,0, 0,0
+2020-06-23,New Delhi,37,0,0, 0,0
+2020-06-23,North Delhi,60,0,0, 0,0
+2020-06-23,North East Delhi,25,0,0, 0,0
+2020-06-23,North West Delhi,32,0,1, 0,0
+2020-06-23,Shahdara,48,0,0, 0,0
+2020-06-23,South Delhi,70,0,0, 0,0
+2020-06-23,South East Delhi,130,0,0, 0,0
+2020-06-23,South West Delhi,42,0,0, 0,0
+2020-06-23,Unknown,65814,39313,2300,3947,2711
+2020-06-23,West Delhi,122,0,0, 0,0
+2020-06-24,Central Delhi,184,0,0, 0,0
+2020-06-24,East Delhi,38,0,0, 0,0
+2020-06-24,New Delhi,37,0,0, 0,0
+2020-06-24,North Delhi,60,0,0, 0,0
+2020-06-24,North East Delhi,25,0,0, 0,0
+2020-06-24,North West Delhi,32,0,1, 0,0
+2020-06-24,Shahdara,48,0,0, 0,0
+2020-06-24,South Delhi,70,0,0, 0,0
+2020-06-24,South East Delhi,130,0,0, 0,0
+2020-06-24,South West Delhi,42,0,0, 0,0
+2020-06-24,Unknown,69602,41437,2364,3788,2124
+2020-06-24,West Delhi,122,0,0, 0,0
+2020-06-25,Central Delhi,184,0,0, 0,0
+2020-06-25,East Delhi,38,0,0, 0,0
+2020-06-25,New Delhi,37,0,0, 0,0
+2020-06-25,North Delhi,60,0,0, 0,0
+2020-06-25,North East Delhi,25,0,0, 0,0
+2020-06-25,North West Delhi,32,0,1, 0,0
+2020-06-25,Shahdara,48,0,0, 0,0
+2020-06-25,South Delhi,70,0,0, 0,0
+2020-06-25,South East Delhi,130,0,0, 0,0
+2020-06-25,South West Delhi,42,0,0, 0,0
+2020-06-25,Unknown,72992,44765,2428,3390,3328
+2020-06-25,West Delhi,122,0,0, 0,0
+2020-06-26,Central Delhi,184,0,0, 0,0
+2020-06-26,East Delhi,38,0,0, 0,0
+2020-06-26,New Delhi,37,0,0, 0,0
+2020-06-26,North Delhi,60,0,0, 0,0
+2020-06-26,North East Delhi,25,0,0, 0,0
+2020-06-26,North West Delhi,32,0,1, 0,0
+2020-06-26,Shahdara,48,0,0, 0,0
+2020-06-26,South Delhi,70,0,0, 0,0
+2020-06-26,South East Delhi,130,0,0, 0,0
+2020-06-26,South West Delhi,42,0,0, 0,0
+2020-06-26,Unknown,76452,47091,2491,3460,2326
+2020-06-26,West Delhi,122,0,0, 0,0
+2020-06-27,Central Delhi,184,0,0, 0,0
+2020-06-27,East Delhi,38,0,0, 0,0
+2020-06-27,New Delhi,37,0,0, 0,0
+2020-06-27,North Delhi,60,0,0, 0,0
+2020-06-27,North East Delhi,25,0,0, 0,0
+2020-06-27,North West Delhi,32,0,1, 0,0
+2020-06-27,Shahdara,48,0,0, 0,0
+2020-06-27,South Delhi,70,0,0, 0,0
+2020-06-27,South East Delhi,130,0,0, 0,0
+2020-06-27,South West Delhi,42,0,0, 0,0
+2020-06-27,Unknown,79400,49301,2557,2948,2210
+2020-06-27,West Delhi,122,0,0, 0,0
+2020-06-28,Central Delhi,184,0,0, 0,0
+2020-06-28,East Delhi,38,0,0, 0,0
+2020-06-28,New Delhi,37,0,0, 0,0
+2020-06-28,North Delhi,60,0,0, 0,0
+2020-06-28,North East Delhi,25,0,0, 0,0
+2020-06-28,North West Delhi,32,0,1, 0,0
+2020-06-28,Shahdara,48,0,0, 0,0
+2020-06-28,South Delhi,70,0,0, 0,0
+2020-06-28,South East Delhi,130,0,0, 0,0
+2020-06-28,South West Delhi,42,0,0, 0,0
+2020-06-28,Unknown,82289,52607,2622,2889,3306
+2020-06-28,West Delhi,122,0,0, 0,0
+2020-06-29,Central Delhi,184,0,0, 0,0
+2020-06-29,East Delhi,38,0,0, 0,0
+2020-06-29,New Delhi,37,0,0, 0,0
+2020-06-29,North Delhi,60,0,0, 0,0
+2020-06-29,North East Delhi,25,0,0, 0,0
+2020-06-29,North West Delhi,32,0,1, 0,0
+2020-06-29,Shahdara,48,0,0, 0,0
+2020-06-29,South Delhi,70,0,0, 0,0
+2020-06-29,South East Delhi,130,0,0, 0,0
+2020-06-29,South West Delhi,42,0,0, 0,0
+2020-06-29,Unknown,84373,56235,2679,2084,3628
+2020-06-29,West Delhi,122,0,0, 0,0
+2020-06-30,Central Delhi,184,0,0, 0,0
+2020-06-30,East Delhi,38,0,0, 0,0
+2020-06-30,New Delhi,37,0,0, 0,0
+2020-06-30,North Delhi,60,0,0, 0,0
+2020-06-30,North East Delhi,25,0,0, 0,0
+2020-06-30,North West Delhi,32,0,1, 0,0
+2020-06-30,Shahdara,48,0,0, 0,0
+2020-06-30,South Delhi,70,0,0, 0,0
+2020-06-30,South East Delhi,130,0,0, 0,0
+2020-06-30,South West Delhi,42,0,0, 0,0
+2020-06-30,Unknown,86572,58348,2741,2199,2113
+2020-06-30,West Delhi,122,0,0, 0,0
+2020-07-01,Central Delhi,184,0,0, 0,0
+2020-07-01,East Delhi,38,0,0, 0,0
+2020-07-01,New Delhi,37,0,0, 0,0
+2020-07-01,North Delhi,60,0,0, 0,0
+2020-07-01,North East Delhi,25,0,0, 0,0
+2020-07-01,North West Delhi,32,0,1, 0,0
+2020-07-01,Shahdara,48,0,0, 0,0
+2020-07-01,South Delhi,70,0,0, 0,0
+2020-07-01,South East Delhi,130,0,0, 0,0
+2020-07-01,South West Delhi,42,0,0, 0,0
+2020-07-01,Unknown,89014,59992,2802,2442,1644
+2020-07-01,West Delhi,122,0,0, 0,0
+2020-07-02,Central Delhi,184,0,0, 0,0
+2020-07-02,East Delhi,38,0,0, 0,0
+2020-07-02,New Delhi,37,0,0, 0,0
+2020-07-02,North Delhi,60,0,0, 0,0
+2020-07-02,North East Delhi,25,0,0, 0,0
+2020-07-02,North West Delhi,32,0,1, 0,0
+2020-07-02,Shahdara,48,0,0, 0,0
+2020-07-02,South Delhi,70,0,0, 0,0
+2020-07-02,South East Delhi,130,0,0, 0,0
+2020-07-02,South West Delhi,42,0,0, 0,0
+2020-07-02,Unknown,91387,63007,2863,2373,3015
+2020-07-02,West Delhi,122,0,0, 0,0
+2020-07-03,Central Delhi,184,0,0, 0,0
+2020-07-03,East Delhi,38,0,0, 0,0
+2020-07-03,New Delhi,37,0,0, 0,0
+2020-07-03,North Delhi,60,0,0, 0,0
+2020-07-03,North East Delhi,25,0,0, 0,0
+2020-07-03,North West Delhi,32,0,1, 0,0
+2020-07-03,Shahdara,48,0,0, 0,0
+2020-07-03,South Delhi,70,0,0, 0,0
+2020-07-03,South East Delhi,130,0,0, 0,0
+2020-07-03,South West Delhi,42,0,0, 0,0
+2020-07-03,Unknown,93907,65624,2922,2520,2617
+2020-07-03,West Delhi,122,0,0, 0,0
+2020-07-04,Central Delhi,184,0,0, 0,0
+2020-07-04,East Delhi,38,0,0, 0,0
+2020-07-04,New Delhi,37,0,0, 0,0
+2020-07-04,North Delhi,60,0,0, 0,0
+2020-07-04,North East Delhi,25,0,0, 0,0
+2020-07-04,North West Delhi,32,0,1, 0,0
+2020-07-04,Shahdara,48,0,0, 0,0
+2020-07-04,South Delhi,70,0,0, 0,0
+2020-07-04,South East Delhi,130,0,0, 0,0
+2020-07-04,South West Delhi,42,0,0, 0,0
+2020-07-04,Unknown,96412,68256,3003,2505,2632
+2020-07-04,West Delhi,122,0,0, 0,0

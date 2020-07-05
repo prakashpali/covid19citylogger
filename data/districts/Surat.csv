@@ -60,3 +60,6 @@
 {'date': '2020-05-17', 'confirmed': 1094, 'recovered': 708, 'deceased': 51, 'delta_confirmed': 1094, 'delta_recovered': 708}
 {'date': '2020-05-18', 'confirmed': 1127, 'recovered': 744, 'deceased': 53, 'delta_confirmed': 1127, 'delta_recovered': 744}
 {'date': '2020-05-19', 'confirmed': 1156, 'recovered': 758, 'deceased': 55, 'delta_confirmed': 1156, 'delta_recovered': 758}
+{'date': '2020-06-21', 'confirmed': 3233, 'recovered': 2321, 'deceased': 123, 'delta_confirmed': 3233, 'delta_recovered': 2321}
+{'date': '2020-06-22', 'confirmed': 3365, 'recovered': 2384, 'deceased': 128, 'delta_confirmed': 3365, 'delta_recovered': 2384}
+{'date': '2020-06-23', 'confirmed': 3540, 'recovered': 2471, 'deceased': 134, 'delta_confirmed': 3540, 'delta_recovered': 2471}

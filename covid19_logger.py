@@ -10,42 +10,30 @@ class Covid19Logger(object):
     def __init__(self):
         print("Covid19 Logger initialized.")
 
-    def cov_refresh_date_wise_data(self):
+    def cov_refresh_date_wise_data(self, day):
         '''
         Get all the date till date
         '''
 
-        sdate = date(2020, 4, 1)  # start date
-        edate = date(2020, 6, 20)  # end date
-        # edate = date(2020, 4, 3)  # end date
+        print('Refreshing data for {} date', day)
+        url = 'https://api.covid19india.org/v3/data-' + str(day) + '.json'
+        rsp = requests.get(url)
+        data = ''
+        if rsp.status_code in (200,):
+            # This magic here is to cut out various leading characters from the JSON
+            # response, as well as trailing stuff (a terminating ']\n' sequence), and then
+            # we decode the escape sequences in the response
+            # This then allows you to load the resulting string
+            # with the JSON module.
+            data = rsp.content.decode('utf-8')
+            # return data
 
-        # print(datetime.now().date())
-
-        delta = edate - sdate  # as timedelta
-
-        for i in range(delta.days + 1):
-            day = sdate + timedelta(days=i)
-            print(day)
-
-            # https://api.covid19india.org/v3/data-2020-05-20.json
-            url = 'https://api.covid19india.org/v3/data-' + str(day) + '.json'
-            rsp = requests.get(url)
-            data = ''
-            if rsp.status_code in (200,):
-                # This magic here is to cut out various leading characters from the JSON
-                # response, as well as trailing stuff (a terminating ']\n' sequence), and then
-                # we decode the escape sequences in the response
-                # This then allows you to load the resulting string
-                # with the JSON module.
-                data = rsp.content.decode('utf-8')
-                # return data
-
-            # data = json.loads(data)
-            # file = r'data\{}_json.txt'.format(day)
-            file = r'data\{}.csv'.format(day)      # Read write operation on csv was found to be faster
-            f = open(file, 'w+')
-            f.write(data)
-            f.close()
+        # data = json.loads(data)
+        # file = r'data\{}_json.txt'.format(day)
+        file = r'data\{}.csv'.format(day)      # Read write operation on csv was found to be faster
+        f = open(file, 'w+')
+        f.write(data)
+        f.close()
 
         return
 
@@ -56,6 +44,10 @@ class Covid19Logger(object):
 
         # file = r'data\{}_json.txt'.format(date)
         file = r'data\{}.csv'.format(date)      # Read write operation on csv was found to be faster
+        # If file does not exists, get data from covid19india.org and save it locally
+        if not os.path.isfile(file):
+            self.cov_refresh_date_wise_data(date)
+
         data = ''
         try:
             f = open(file, 'r')
@@ -83,7 +75,7 @@ class Covid19Logger(object):
                     break
                 # print(data_dict[city])
             except Exception as e:
-                print('________Error:', e)
+                print('________Error:', e, date)
                 # data_dict = ''
 
         # print(data_dict[city])
@@ -137,7 +129,6 @@ class Covid19Logger(object):
         return data_city
 
     def get_data_from_covid19india_org(self):
-        # url = 'https://www.covid19india.org/'
         # https://api.covid19india.org/v3/data-2020-05-20.json
         url = 'https://api.covid19india.org/state_district_wise.json'
         rsp = requests.get(url)
@@ -154,18 +145,17 @@ class Covid19Logger(object):
 if __name__ == '__main__':
     c = Covid19Logger()
 
-    # c.cov_refresh_date_wise_data()
-
     sdate = date(2020, 4, 20)  # start date
-    edate = date(2020, 6, 20)  # end date
+    edate = datetime.now().date() - timedelta(days=1)
 
-    cities = ['Bengaluru Urban', 'Surat', 'Ranchi', 'Mumbai']
-
-    # print(datetime.now().date())
+    cities = ['Bengaluru Urban', 'Ranchi', 'Deoghar']
 
     delta = edate - sdate  # as timedelta
 
     confirmed_data = {}
+    active_data = {}
+    recovered_data = {}
+    deceased_data = {}
     bangalore_confirmed_data = []
     surat_confirmed_data = []
     dates = []
@@ -175,33 +165,43 @@ if __name__ == '__main__':
 
     for city in cities:
         confirmed_data[city] = []
+        recovered_data[city] = []
+        deceased_data[city] = []
+        active_data[city] = []
         for i in range(delta.days + 1):
             day = sdate + timedelta(days=i)
             dates.append(str(day))
-            confirmed_data[city].append(c.cov_get_date_wise_city_data(str(day), city)['confirmed'])
+            data_dict = c.cov_get_date_wise_city_data(str(day), city)
+            confirmed_data[city].append(data_dict['confirmed'])
+            recovered_data[city].append(data_dict['recovered'])
+            deceased_data[city].append(data_dict['deceased'])
+            active_data[city].append(data_dict['confirmed'] - data_dict['recovered'])
 
-        fig.add_trace(go.Scatter(x=dates, y=confirmed_data[city], name=city, mode='lines+markers'))
+        fig.add_trace(go.Scatter(x=dates, y=confirmed_data[city], name=city + ' Confirmed', mode='lines+markers'))
+        fig.add_trace(go.Scatter(x=dates, y=active_data[city], name=city + ' Active', mode='lines+markers'))
+        fig.add_trace(go.Scatter(x=dates, y=recovered_data[city], name=city + ' Recovered', mode='lines+markers'))
+        fig.add_trace(go.Scatter(x=dates, y=deceased_data[city], name=city + ' Deceased', mode='lines+markers'))
 
-        # Adding labels
-        y_trace = confirmed_data[city]
-        # labeling the left_side of the plot
-        annotations.append(dict(xref='paper', x=0.05, y=y_trace[0],
-                                xanchor='right', yanchor='middle',
-                                text=city + ' {}'.format(y_trace[0]),
-                                font=dict(family='Arial',
-                                          size=10),
-                                showarrow=False))
-        # labeling the right_side of the plot
-        annotations.append(dict(xref='paper', x=0.95, y=y_trace[-1],
-                                xanchor='left', yanchor='middle',
-                                text='{}'.format(y_trace[-1]),
-                                font=dict(family='Arial',
-                                          size=10),
-                                showarrow=False))
+        # # Adding labels
+        # y_trace = confirmed_data[city]
+        # # labeling the left_side of the plot
+        # annotations.append(dict(xref='paper', x=0.05, y=y_trace[0],
+        #                         xanchor='right', yanchor='middle',
+        #                         text=city + ' {}'.format(y_trace[0]),
+        #                         font=dict(family='Arial',
+        #                                   size=10),
+        #                         showarrow=False))
+        # # labeling the right_side of the plot
+        # annotations.append(dict(xref='paper', x=0.95, y=y_trace[-1],
+        #                         xanchor='left', yanchor='middle',
+        #                         text=city + ' {}'.format(y_trace[-1]),
+        #                         font=dict(family='Arial',
+        #                                   size=10),
+        #                         showarrow=False))
 
-    print(confirmed_data)
-    print(dates)
-    print(annotations)
+    # print(confirmed_data)
+    # print(dates)
+    # print(annotations)
 
     # Edit the layout
     fig.update_layout(title='Number of confirmed cases in cities',
@@ -223,8 +223,9 @@ if __name__ == '__main__':
                       annotations=annotations
     )
 
+    fig.write_html('confirmed_cases.html', auto_open=False)
+    # fig.write_image("confirmed_cases.png")
     fig.show()
-    # fig.write_html('confirmed_cases.html', auto_open=True)
 
 
 

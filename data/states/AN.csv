@@ -1,0 +1,167 @@
+date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
+2020-04-26,North and Middle Andaman,1,1,0, 0,0
+2020-04-26,South Andaman,32,10,0, 0,0
+2020-04-27,North and Middle Andaman,1,1,0, 0,0
+2020-04-27,South Andaman,32,10,0, 0,0
+2020-04-28,North and Middle Andaman,1,1,0, 0,0
+2020-04-28,South Andaman,32,14,0, 0,4
+2020-04-29,North and Middle Andaman,1,1,0, 0,0
+2020-04-29,South Andaman,32,14,0, 0,0
+2020-04-30,North and Middle Andaman,1,1,0, 0,0
+2020-04-30,South Andaman,32,15,0, 0,1
+2020-05-01,North and Middle Andaman,1,1,0, 0,0
+2020-05-01,South Andaman,32,15,0, 0,0
+2020-05-02,North and Middle Andaman,1,1,0, 0,0
+2020-05-02,South Andaman,32,25,0, 0,10
+2020-05-03,North and Middle Andaman,1,1,0, 0,0
+2020-05-03,South Andaman,32,31,0, 0,6
+2020-05-04,North and Middle Andaman,1,1,0, 0,0
+2020-05-04,South Andaman,32,31,0, 0,0
+2020-05-05,North and Middle Andaman,1,1,0, 0,0
+2020-05-05,South Andaman,32,31,0, 0,0
+2020-05-06,North and Middle Andaman,1,1,0, 0,0
+2020-05-06,South Andaman,32,31,0, 0,0
+2020-05-07,North and Middle Andaman,1,1,0, 0,0
+2020-05-07,South Andaman,32,32,0, 0,1
+2020-05-08,North and Middle Andaman,1,1,0, 0,0
+2020-05-08,South Andaman,32,32,0, 0,0
+2020-05-09,North and Middle Andaman,1,1,0, 0,0
+2020-05-09,South Andaman,32,32,0, 0,0
+2020-05-10,North and Middle Andaman,1,1,0, 0,0
+2020-05-10,South Andaman,32,32,0, 0,0
+2020-05-11,North and Middle Andaman,1,1,0, 0,0
+2020-05-11,South Andaman,32,32,0, 0,0
+2020-05-12,North and Middle Andaman,1,1,0, 0,0
+2020-05-12,South Andaman,32,32,0, 0,0
+2020-05-13,North and Middle Andaman,1,1,0, 0,0
+2020-05-13,South Andaman,32,32,0, 0,0
+2020-05-14,North and Middle Andaman,1,1,0, 0,0
+2020-05-14,South Andaman,32,32,0, 0,0
+2020-05-15,North and Middle Andaman,1,1,0, 0,0
+2020-05-15,South Andaman,32,32,0, 0,0
+2020-05-16,North and Middle Andaman,1,1,0, 0,0
+2020-05-16,South Andaman,32,32,0, 0,0
+2020-05-17,North and Middle Andaman,1,1,0, 0,0
+2020-05-17,South Andaman,32,32,0, 0,0
+2020-05-18,North and Middle Andaman,1,1,0, 0,0
+2020-05-18,South Andaman,32,32,0, 0,0
+2020-05-19,North and Middle Andaman,1,1,0, 0,0
+2020-05-19,South Andaman,32,32,0, 0,0
+2020-05-20,North and Middle Andaman,1,1,0, 0,0
+2020-05-20,South Andaman,32,32,0, 0,0
+2020-05-21,North and Middle Andaman,1,1,0, 0,0
+2020-05-21,South Andaman,32,32,0, 0,0
+2020-05-22,North and Middle Andaman,1,1,0, 0,0
+2020-05-22,South Andaman,32,32,0, 0,0
+2020-05-23,North and Middle Andaman,1,1,0, 0,0
+2020-05-23,South Andaman,32,32,0, 0,0
+2020-05-24,North and Middle Andaman,1,1,0, 0,0
+2020-05-24,South Andaman,32,32,0, 0,0
+2020-05-25,North and Middle Andaman,1,1,0, 0,0
+2020-05-25,South Andaman,32,32,0, 0,0
+2020-05-26,North and Middle Andaman,1,1,0, 0,0
+2020-05-26,South Andaman,32,32,0, 0,0
+2020-05-27,North and Middle Andaman,1,1,0, 0,0
+2020-05-27,South Andaman,32,32,0, 0,0
+2020-05-28,North and Middle Andaman,1,1,0, 0,0
+2020-05-28,South Andaman,32,32,0, 0,0
+2020-05-29,North and Middle Andaman,1,1,0, 0,0
+2020-05-29,South Andaman,32,32,0, 0,0
+2020-05-30,North and Middle Andaman,1,1,0, 0,0
+2020-05-30,South Andaman,32,32,0, 0,0
+2020-05-31,North and Middle Andaman,1,1,0, 0,0
+2020-05-31,South Andaman,32,32,0, 0,0
+2020-06-01,North and Middle Andaman,1,1,0, 0,0
+2020-06-01,South Andaman,32,32,0, 0,0
+2020-06-02,North and Middle Andaman,1,1,0, 0,0
+2020-06-02,South Andaman,32,32,0, 0,0
+2020-06-03,North and Middle Andaman,1,1,0, 0,0
+2020-06-03,South Andaman,32,32,0, 0,0
+2020-06-04,North and Middle Andaman,1,1,0, 0,0
+2020-06-04,South Andaman,32,32,0, 0,0
+2020-06-05,North and Middle Andaman,1,1,0, 0,0
+2020-06-05,South Andaman,32,32,0, 0,0
+2020-06-06,North and Middle Andaman,1,1,0, 0,0
+2020-06-06,South Andaman,32,32,0, 0,0
+2020-06-07,North and Middle Andaman,1,1,0, 0,0
+2020-06-07,South Andaman,32,32,0, 0,0
+2020-06-08,North and Middle Andaman,1,1,0, 0,0
+2020-06-08,South Andaman,32,32,0, 0,0
+2020-06-09,North and Middle Andaman,1,1,0, 0,0
+2020-06-09,South Andaman,32,32,0, 0,0
+2020-06-09,Unknown,1,0,0,1,0
+2020-06-10,North and Middle Andaman,1,1,0, 0,0
+2020-06-10,South Andaman,32,32,0, 0,0
+2020-06-10,Unknown,2,0,0,1,0
+2020-06-11,North and Middle Andaman,1,1,0, 0,0
+2020-06-11,South Andaman,32,32,0, 0,0
+2020-06-11,Unknown,5,0,0,3,0
+2020-06-12,North and Middle Andaman,1,1,0, 0,0
+2020-06-12,South Andaman,32,32,0, 0,0
+2020-06-12,Unknown,5,0,0, 0,0
+2020-06-13,North and Middle Andaman,1,1,0, 0,0
+2020-06-13,South Andaman,32,32,0, 0,0
+2020-06-13,Unknown,5,0,0, 0,0
+2020-06-14,North and Middle Andaman,1,1,0, 0,0
+2020-06-14,South Andaman,32,32,0, 0,0
+2020-06-14,Unknown,7,0,0,2,0
+2020-06-15,North and Middle Andaman,1,1,0, 0,0
+2020-06-15,South Andaman,32,32,0, 0,0
+2020-06-15,Unknown,8,0,0,1,0
+2020-06-16,North and Middle Andaman,1,1,0, 0,0
+2020-06-16,South Andaman,35,32,0,3,0
+2020-06-16,Unknown,8,0,0, 0,0
+2020-06-17,North and Middle Andaman,1,1,0, 0,0
+2020-06-17,South Andaman,35,32,0, 0,0
+2020-06-17,Unknown,8,0,0, 0,0
+2020-06-18,North and Middle Andaman,1,1,0, 0,0
+2020-06-18,South Andaman,35,32,0, 0,0
+2020-06-18,Unknown,9,2,0,1,2
+2020-06-19,North and Middle Andaman,1,1,0, 0,0
+2020-06-19,South Andaman,35,32,0, 0,0
+2020-06-19,Unknown,11,2,0,2,0
+2020-06-20,North and Middle Andaman,1,1,0, 0,0
+2020-06-20,South Andaman,35,32,0, 0,0
+2020-06-20,Unknown,11,2,0, 0,0
+2020-06-21,North and Middle Andaman,1,1,0, 0,0
+2020-06-21,South Andaman,35,32,0, 0,0
+2020-06-21,Unknown,12,4,0,1,2
+2020-06-22,North and Middle Andaman,1,1,0, 0,0
+2020-06-22,South Andaman,35,32,0, 0,0
+2020-06-22,Unknown,12,4,0, 0,0
+2020-06-23,North and Middle Andaman,1,1,0, 0,0
+2020-06-23,South Andaman,35,32,0, 0,0
+2020-06-23,Unknown,14,7,0,2,3
+2020-06-24,North and Middle Andaman,1,1,0, 0,0
+2020-06-24,South Andaman,35,32,0, 0,0
+2020-06-24,Unknown,20,8,0,6,1
+2020-06-25,North and Middle Andaman,1,1,0, 0,0
+2020-06-25,South Andaman,35,32,0, 0,0
+2020-06-25,Unknown,22,8,0,2,0
+2020-06-26,North and Middle Andaman,1,1,0, 0,0
+2020-06-26,South Andaman,35,32,0, 0,0
+2020-06-26,Unknown,36,10,0,14,2
+2020-06-27,North and Middle Andaman,1,1,0, 0,0
+2020-06-27,South Andaman,35,32,0, 0,0
+2020-06-27,Unknown,36,10,0, 0,0
+2020-06-28,North and Middle Andaman,1,1,0, 0,0
+2020-06-28,South Andaman,51,32,0, 0,0
+2020-06-28,Unknown,31,12,0,11,2
+2020-06-29,North and Middle Andaman,1,1,0, 0,0
+2020-06-29,South Andaman,51,32,0, 0,0
+2020-06-29,Unknown,38,12,0,7,0
+2020-06-30,North and Middle Andaman,1,1,0, 0,0
+2020-06-30,South Andaman,51,32,0, 0,0
+2020-06-30,Unknown,45,12,0,7,0
+2020-07-01,North and Middle Andaman,1,1,0, 0,0
+2020-07-01,South Andaman,51,32,0, 0,0
+2020-07-01,Unknown,48,17,0,3,5
+2020-07-02,North and Middle Andaman,1,1,0, 0,0
+2020-07-02,South Andaman,51,32,0, 0,0
+2020-07-02,Unknown,57,18,0,9,1
+2020-07-03,North and Middle Andaman,1,1,0, 0,0
+2020-07-03,South Andaman,51,32,0, 0,0
+2020-07-03,Unknown,64,21,0,7,3
+2020-07-04,North and Middle Andaman,1,1,0, 0,0
+2020-07-04,South Andaman,51,32,0, 0,0
+2020-07-04,Unknown,67,33,0,3,12
