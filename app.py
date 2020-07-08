@@ -2,6 +2,7 @@ import json
 from datetime import datetime, date, timedelta
 import requests
 import os
+import sys
 import pdb
 
 import dash
@@ -29,7 +30,7 @@ for i in range(delta_date.days + 1):
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-df = pd.read_csv(r'data\states\KA_backup.csv')
+df = pd.read_csv(r'data/states/KA_backup.csv')
 available_indicators = df['city'].unique()
 
 app.layout = html.Div([
@@ -75,7 +76,7 @@ app.layout = html.Div([
     [Input('state', 'value')]
 )
 def update_city_dropdown(name):
-    path = r'data\states\{}.csv'.format(name)
+    path = r'data/states/{}.csv'.format(name)
     df = pd.read_csv(path)
     cities = df['city'].unique()
     cities.sort()
@@ -91,7 +92,7 @@ def update_graph(state, city,
                  yaxis_type,
                  date_value):
 
-    path = r'data\states\{}.csv'.format(state)
+    path = r'data/states/{}.csv'.format(state)
     df = pd.read_csv(path)
     # print('df y axis:', df['city'])
     # print('date:', sdate + timedelta(days=date_value))
@@ -152,11 +153,12 @@ class Covid19Logger(object):
             # return data
 
         # data = json.loads(data)
-        # file = r'data\{}_json.txt'.format(day)
-        file = r'data\{}.csv'.format(day)      # Read write operation on csv was found to be faster
-        f = open(file, 'w+')
-        f.write(data)
-        f.close()
+        # file = r'data/{}_json.txt'.format(day)
+        if not data == '':
+            file = r'data/{}.csv'.format(day)      # Read write operation on csv was found to be faster
+            f = open(file, 'w+')
+            f.write(data)
+            f.close()
 
         return
 
@@ -165,10 +167,11 @@ class Covid19Logger(object):
         Get data for a particular date. Date has to be in YYYY-MM-DD format
         '''
 
-        # file = r'data\{}_json.txt'.format(date)
-        file = r'data\{}.csv'.format(date)      # Read write operation on csv was found to be faster
+        # file = r'data/{}_json.txt'.format(date)
+        file = r'data/{}.csv'.format(date)      # Read write operation on csv was found to be faster
         # If file does not exists, get data from covid19india.org and save it locally
         if not os.path.isfile(file):
+            print("File {} is not present. Getting it from server\n".format(file))
             self.cov_refresh_date_wise_data(date)
 
         data = ''
@@ -186,33 +189,49 @@ class Covid19Logger(object):
         Get date wise data for each city
         '''
         data = self.cov_get_date_wise_data(date)
-        data = json.loads(data)
-        states = data.keys()
+        try:
+            data = json.loads(data)
+            states = data.keys()
+        except Exception as e:
+            print("Got exception {} in loading json from data {}".format(e, date))
+            raise e
+        
         data_dict = ''
         for state in states:
-            path = r'data\states\all_states.csv'
+            path = r'data/states/all_states.csv'
+            
+            '''
             if os.path.exists(path):
                 f = open(path, 'a')
-                f.write("\'" + str(state) + "\'" + ",")
+                if 'linux' in sys.platform:
+                    f.write("'{}',".format(str(state)))
+                else:
+                    f.write("/'" + str(state) + "/'" + ",")
                 f.close()
             else:
                 f = open(path, 'a')
-                f.write('States\n')
+                if 'linux' in sys.platform:
+                    f.write('States\n')
+                else:
+                    f.write('States\n')
                 f.close()
-
+            '''
+                
             try:
                 data_dict = data[state]['districts']
                 # print(data_dict)
                 # Create a file for state
-                path = r'data\states\{}.csv'.format(state)
+                path = r'data/states/{}.csv'.format(state)
                 lines = ''
                 if os.path.exists(path):
                     f = open(path, 'r')
                     lines = f.readlines()
                     f.close()
                 else:
-                    data_city = 'date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered\n'
                     f = open(path, 'w')
+                    data_city = 'date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered\n'
+                    if 'linux' in sys.platform:
+                        data_city = data_city#.rstrip()
                     f.write(data_city)
                     f.close()
 
@@ -251,9 +270,12 @@ class Covid19Logger(object):
                         # print('____Error:', e)
                         data_city += ',' + '0'
 
-                    if str(data_city) + '\n' not in lines:
+                    if (str(data_city) + '\n' not in lines): # or (str(data_city) not in lines):                           
                         f = open(path, 'a')
-                        f.write(str(data_city) + '\n')
+                        if 'linux' in sys.platform:
+                            f.write(str(data_city) + '\n')
+                        else:
+                            f.write(str(data_city) + '\n')
                         f.close()
 
             except Exception as e:
@@ -265,12 +287,12 @@ class Covid19Logger(object):
 if __name__ == '__main__':
     c = Covid19Logger()
 
-    # # Update latest data in all state files
-    # for i in range(delta_date.days + 1):
-    #     date = sdate + timedelta(days=i)
-    #     # print(date)
-    #     c.cov_get_state_data(str(date))
+    # ~ # Update latest data in all state files
+    # ~ for i in range(delta_date.days + 1):
+        # ~ date = sdate + timedelta(days=i)
+        # ~ # print(date)
+        # ~ c.cov_get_state_data(str(date))
 
-    app.run_server(host='192.168.1.9', port='8080', debug=True)
+    app.run_server(host='192.168.1.12', port='8080', debug=True)
 
 

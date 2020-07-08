@@ -2366,3 +2366,111 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-04,Warangal Rural,125,0,0,6,0
 2020-07-04,Warangal Urban,160,23,0,31,0
 2020-07-04,Yadadri Bhuvanagiri,23,0,0,1,0
+2020-07-05,Adilabad,48,15,0,1,0
+2020-07-05,Bhadradri Kothagudem,43,4,0,2,0
+2020-07-05,Foreign Evacuees,33,0,0, 0,0
+2020-07-05,Hyderabad,18927,305,23,1277,0
+2020-07-05,Jagtial,34,2,0, 0,0
+2020-07-05,Jangaon,86,1,0,2,0
+2020-07-05,Jayashankar Bhupalapally,13,0,0, 0,0
+2020-07-05,Jogulamba Gadwal,56,25,1,1,0
+2020-07-05,Kamareddy,52,8,0,1,0
+2020-07-05,Karimnagar,129,16,0,4,0
+2020-07-05,Khammam,72,3,0, 0,0
+2020-07-05,Komaram Bheem,26,2,0, 0,0
+2020-07-05,Mahabubabad,45,1,0,19,0
+2020-07-05,Mahabubnagar,104,8,0, 0,0
+2020-07-05,Mancherial,68,0,1, 0,0
+2020-07-05,Medak,66,4,0,3,0
+2020-07-05,Medchal Malkajgiri,879,9,1,125,0
+2020-07-05,Mulugu,23,2,0, 0,0
+2020-07-05,Nagarkurnool,25,2,0, 0,0
+2020-07-05,Nalgonda,127,12,0,14,0
+2020-07-05,Narayanpet,6,0,1,1,0
+2020-07-05,Nirmal,39,13,0,2,0
+2020-07-05,Nizamabad,117,30,0,3,0
+2020-07-05,Other State,250,0,0, 0,0
+2020-07-05,Peddapalli,7,1,0,1,0
+2020-07-05,Rajanna Sircilla,40,2,0,1,0
+2020-07-05,Ranga Reddy,1400,17,2,82,0
+2020-07-05,Sangareddy,197,6,0,19,0
+2020-07-05,Siddipet,35,1,0,1,0
+2020-07-05,Suryapet,120,24,0,23,0
+2020-07-05,Unknown,456,12152,265, 0,1166
+2020-07-05,Vikarabad,54,15,1,2,0
+2020-07-05,Wanaparthy,15,0,0,4,0
+2020-07-05,Warangal Rural,126,0,0,1,0
+2020-07-05,Warangal Urban,160,23,0, 0,0
+2020-07-05,Yadadri Bhuvanagiri,24,0,0,1,0
+2020-07-06,Adilabad,48,15,0, 0,0
+2020-07-06,Bhadradri Kothagudem,43,4,0, 0,0
+2020-07-06,Foreign Evacuees,33,0,0, 0,0
+2020-07-06,Hyderabad,20346,305,23,1419,0
+2020-07-06,Jagtial,38,2,0,4,0
+2020-07-06,Jangaon,86,1,0, 0,0
+2020-07-06,Jayashankar Bhupalapally,13,0,0, 0,0
+2020-07-06,Jogulamba Gadwal,57,25,1,1,0
+2020-07-06,Kamareddy,52,8,0, 0,0
+2020-07-06,Karimnagar,134,16,0,5,0
+2020-07-06,Khammam,93,3,0,21,0
+2020-07-06,Komaram Bheem,26,2,0, 0,0
+2020-07-06,Mahabubabad,46,1,0,1,0
+2020-07-06,Mahabubnagar,113,8,0,9,0
+2020-07-06,Mancherial,88,0,1,20,0
+2020-07-06,Medak,86,4,0,20,0
+2020-07-06,Medchal Malkajgiri,996,9,1,117,0
+2020-07-06,Mulugu,23,2,0, 0,0
+2020-07-06,Nagarkurnool,25,2,0, 0,0
+2020-07-06,Nalgonda,136,12,0,9,0
+2020-07-06,Narayanpet,7,0,1,1,0
+2020-07-06,Nirmal,39,13,0, 0,0
+2020-07-06,Nizamabad,126,30,0,9,0
+2020-07-06,Other State,250,0,0, 0,0
+2020-07-06,Peddapalli,16,1,0,9,0
+2020-07-06,Rajanna Sircilla,40,2,0, 0,0
+2020-07-06,Ranga Reddy,1560,17,2,160,0
+2020-07-06,Sangareddy,200,6,0,3,0
+2020-07-06,Siddipet,35,1,0, 0,0
+2020-07-06,Suryapet,126,24,0,6,0
+2020-07-06,Unknown,456,14230,276, 0,2078
+2020-07-06,Vikarabad,61,15,1,7,0
+2020-07-06,Wanaparthy,15,0,0, 0,0
+2020-07-06,Warangal Rural,126,0,0, 0,0
+2020-07-06,Warangal Urban,169,23,0,9,0
+2020-07-06,Yadadri Bhuvanagiri,25,0,0,1,0
+2020-07-07,Adilabad,49,15,0,1,0
+2020-07-07,Bhadradri Kothagudem,46,4,0,3,0
+2020-07-07,Foreign Evacuees,33,0,0, 0,0
+2020-07-07,Hyderabad,21768,305,23,1422,0
+2020-07-07,Jagtial,40,2,0,2,0
+2020-07-07,Jangaon,87,1,0,1,0
+2020-07-07,Jayashankar Bhupalapally,19,0,0,6,0
+2020-07-07,Jogulamba Gadwal,61,25,1,4,0
+2020-07-07,Kamareddy,59,8,0,7,0
+2020-07-07,Karimnagar,166,16,0,32,0
+2020-07-07,Khammam,96,3,0,3,0
+2020-07-07,Komaram Bheem,26,2,0, 0,0
+2020-07-07,Mahabubabad,48,1,0,2,0
+2020-07-07,Mahabubnagar,124,8,0,11,0
+2020-07-07,Mancherial,88,0,1, 0,0
+2020-07-07,Medak,98,4,0,12,0
+2020-07-07,Medchal Malkajgiri,1090,9,1,94,0
+2020-07-07,Mulugu,35,2,0,12,0
+2020-07-07,Nagarkurnool,27,2,0,2,0
+2020-07-07,Nalgonda,167,12,0,31,0
+2020-07-07,Narayanpet,7,0,1, 0,0
+2020-07-07,Nirmal,39,13,0, 0,0
+2020-07-07,Nizamabad,145,30,0,19,0
+2020-07-07,Other State,250,0,0, 0,0
+2020-07-07,Peddapalli,19,1,0,3,0
+2020-07-07,Rajanna Sircilla,42,2,0,2,0
+2020-07-07,Ranga Reddy,1736,17,2,176,0
+2020-07-07,Sangareddy,209,6,0,9,0
+2020-07-07,Siddipet,36,1,0,1,0
+2020-07-07,Suryapet,135,24,0,9,0
+2020-07-07,Unknown,456,15736,283, 0,1506
+2020-07-07,Vikarabad,62,15,1,1,0
+2020-07-07,Wanaparthy,16,0,0,1,0
+2020-07-07,Warangal Rural,126,0,0, 0,0
+2020-07-07,Warangal Urban,182,23,0,13,0
+2020-07-07,Yadadri Bhuvanagiri,25,0,0, 0,0

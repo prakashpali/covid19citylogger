@@ -165,3 +165,12 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-04,North and Middle Andaman,1,1,0, 0,0
 2020-07-04,South Andaman,51,32,0, 0,0
 2020-07-04,Unknown,67,33,0,3,12
+2020-07-05,North and Middle Andaman,1,1,0, 0,0
+2020-07-05,South Andaman,51,32,0, 0,0
+2020-07-05,Unknown,73,39,0,6,6
+2020-07-06,North and Middle Andaman,1,1,0, 0,0
+2020-07-06,South Andaman,51,32,0, 0,0
+2020-07-06,Unknown,89,41,0,16,2
+2020-07-07,North and Middle Andaman,1,1,0, 0,0
+2020-07-07,South Andaman,51,32,0, 0,0
+2020-07-07,Unknown,95,41,0,6,0

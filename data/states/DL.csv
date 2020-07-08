@@ -839,3 +839,39 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-04,South West Delhi,42,0,0, 0,0
 2020-07-04,Unknown,96412,68256,3003,2505,2632
 2020-07-04,West Delhi,122,0,0, 0,0
+2020-07-05,Central Delhi,184,0,0, 0,0
+2020-07-05,East Delhi,38,0,0, 0,0
+2020-07-05,New Delhi,37,0,0, 0,0
+2020-07-05,North Delhi,60,0,0, 0,0
+2020-07-05,North East Delhi,25,0,0, 0,0
+2020-07-05,North West Delhi,32,0,1, 0,0
+2020-07-05,Shahdara,48,0,0, 0,0
+2020-07-05,South Delhi,70,0,0, 0,0
+2020-07-05,South East Delhi,130,0,0, 0,0
+2020-07-05,South West Delhi,42,0,0, 0,0
+2020-07-05,Unknown,98656,71339,3066,2244,3083
+2020-07-05,West Delhi,122,0,0, 0,0
+2020-07-06,Central Delhi,184,0,0, 0,0
+2020-07-06,East Delhi,38,0,0, 0,0
+2020-07-06,New Delhi,37,0,0, 0,0
+2020-07-06,North Delhi,60,0,0, 0,0
+2020-07-06,North East Delhi,25,0,0, 0,0
+2020-07-06,North West Delhi,32,0,1, 0,0
+2020-07-06,Shahdara,48,0,0, 0,0
+2020-07-06,South Delhi,70,0,0, 0,0
+2020-07-06,South East Delhi,130,0,0, 0,0
+2020-07-06,South West Delhi,42,0,0, 0,0
+2020-07-06,Unknown,100035,72088,3114,1379,749
+2020-07-06,West Delhi,122,0,0, 0,0
+2020-07-07,Central Delhi,184,0,0, 0,0
+2020-07-07,East Delhi,38,0,0, 0,0
+2020-07-07,New Delhi,37,0,0, 0,0
+2020-07-07,North Delhi,60,0,0, 0,0
+2020-07-07,North East Delhi,25,0,0, 0,0
+2020-07-07,North West Delhi,32,0,1, 0,0
+2020-07-07,Shahdara,48,0,0, 0,0
+2020-07-07,South Delhi,70,0,0, 0,0
+2020-07-07,South East Delhi,130,0,0, 0,0
+2020-07-07,South West Delhi,42,0,0, 0,0
+2020-07-07,Unknown,102043,74217,3164,2008,2129
+2020-07-07,West Delhi,122,0,0, 0,0

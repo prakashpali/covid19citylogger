@@ -772,3 +772,42 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-04,Tehri Garhwal,421,416,2,1,1
 2020-07-04,Udham Singh Nagar,306,223,3,17,0
 2020-07-04,Uttarkashi,80,59,1,5,0
+2020-07-05,Almora,193,165,2,1,1
+2020-07-05,Bageshwar,93,74,1,1,0
+2020-07-05,Chamoli,76,66,0, 0,1
+2020-07-05,Champawat,59,49,1, 0,0
+2020-07-05,Dehradun,754,588,25,12,9
+2020-07-05,Haridwar,319,286,0,1,5
+2020-07-05,Nainital,537,345,3,7,0
+2020-07-05,Pauri Garhwal,145,130,3,1,4
+2020-07-05,Pithoragarh,67,61,0, 0,0
+2020-07-05,Rudraprayag,66,60,1, 0,0
+2020-07-05,Tehri Garhwal,421,416,2, 0,0
+2020-07-05,Udham Singh Nagar,310,224,3,4,1
+2020-07-05,Uttarkashi,84,60,1,4,1
+2020-07-06,Almora,196,165,2,3,0
+2020-07-06,Bageshwar,93,80,1, 0,6
+2020-07-06,Chamoli,76,71,0, 0,5
+2020-07-06,Champawat,59,51,1, 0,2
+2020-07-06,Dehradun,758,603,25,4,15
+2020-07-06,Haridwar,324,293,0,5,7
+2020-07-06,Nainital,541,358,3,4,13
+2020-07-06,Pauri Garhwal,147,135,3,2,5
+2020-07-06,Pithoragarh,67,63,0, 0,2
+2020-07-06,Rudraprayag,66,65,1, 0,5
+2020-07-06,Tehri Garhwal,420,418,2,-1,2
+2020-07-06,Udham Singh Nagar,330,224,3,20,0
+2020-07-06,Uttarkashi,84,60,1, 0,0
+2020-07-07,Almora,198,175,2,2,10
+2020-07-07,Bageshwar,93,82,1, 0,2
+2020-07-07,Chamoli,76,72,0, 0,1
+2020-07-07,Champawat,61,51,1,2,0
+2020-07-07,Dehradun,776,608,26,18,5
+2020-07-07,Haridwar,331,300,0,7,7
+2020-07-07,Nainital,546,361,3,5,3
+2020-07-07,Pauri Garhwal,150,136,3,3,1
+2020-07-07,Pithoragarh,70,63,0,3,0
+2020-07-07,Rudraprayag,66,65,1, 0,0
+2020-07-07,Tehri Garhwal,421,418,2,1,0
+2020-07-07,Udham Singh Nagar,355,227,3,25,3
+2020-07-07,Uttarkashi,87,63,1,3,3

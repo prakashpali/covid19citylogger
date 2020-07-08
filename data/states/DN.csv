@@ -117,3 +117,12 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-04,Dadra and Nagar Haveli,173,68,0,14,0
 2020-07-04,Daman,153,63,0,23,9
 2020-07-04,Diu,15,11,0, 0,0
+2020-07-05,Dadra and Nagar Haveli,186,78,0,13,10
+2020-07-05,Daman,172,70,0,19,7
+2020-07-05,Diu,15,11,0, 0,0
+2020-07-06,Dadra and Nagar Haveli,193,86,0,7,8
+2020-07-06,Daman,192,77,0,20,7
+2020-07-06,Diu,15,12,0, 0,1
+2020-07-07,Dadra and Nagar Haveli,202,94,0,9,8
+2020-07-07,Daman,202,79,1,10,2
+2020-07-07,Diu,23,12,0,8,0

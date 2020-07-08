@@ -203,3 +203,15 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-04,Other State,125,17,0, 0,8
 2020-07-04,South Goa,880,305,4,19,11
 2020-07-04,Unknown,462,457,0,33,27
+2020-07-05,North Goa,283,92,2,51,8
+2020-07-05,Other State,126,17,0,1,0
+2020-07-05,South Goa,932,407,5,7,85
+2020-07-05,Unknown,420,420,0,18,18
+2020-07-06,North Goa,309,101,2,26,9
+2020-07-06,Other State,130,17,0,4,0
+2020-07-06,South Goa,957,526,5,25,119
+2020-07-06,Unknown,417,417,0,-3,-3
+2020-07-07,North Goa,349,102,3,40,1
+2020-07-07,Other State,133,17,0,3,0
+2020-07-07,South Goa,966,582,5,9,56
+2020-07-07,Unknown,455,455,0,38,38

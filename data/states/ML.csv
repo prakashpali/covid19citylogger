@@ -311,3 +311,30 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-04,West Garo Hills,7,4,0, 0,0
 2020-07-04,West Jaintia Hills,5,5,0, 0,0
 2020-07-04,West Khasi Hills,1,0,0, 0,0
+2020-07-05,East Jaintia Hills,1,0,0, 0,0
+2020-07-05,East Khasi Hills,37,17,1,1,0
+2020-07-05,North Garo Hills,1,1,0, 0,0
+2020-07-05,Ribhoi,11,0,0,1,0
+2020-07-05,South West Garo Hills,7,4,0, 0,0
+2020-07-05,Unknown,2,12,0, 0,0
+2020-07-05,West Garo Hills,7,4,0, 0,0
+2020-07-05,West Jaintia Hills,5,5,0, 0,0
+2020-07-05,West Khasi Hills,1,0,0, 0,0
+2020-07-06,East Jaintia Hills,1,0,0, 0,0
+2020-07-06,East Khasi Hills,49,17,1,12,0
+2020-07-06,North Garo Hills,1,1,0, 0,0
+2020-07-06,Ribhoi,14,0,0,3,0
+2020-07-06,South West Garo Hills,7,4,0, 0,0
+2020-07-06,Unknown,2,12,0, 0,0
+2020-07-06,West Garo Hills,8,4,0,1,0
+2020-07-06,West Jaintia Hills,5,5,0, 0,0
+2020-07-06,West Khasi Hills,1,0,0, 0,0
+2020-07-07,East Jaintia Hills,1,0,0, 0,0
+2020-07-07,East Khasi Hills,55,17,1,6,0
+2020-07-07,North Garo Hills,1,1,0, 0,0
+2020-07-07,Ribhoi,14,0,0, 0,0
+2020-07-07,South West Garo Hills,7,4,0, 0,0
+2020-07-07,Unknown,2,12,0, 0,0
+2020-07-07,West Garo Hills,8,4,0, 0,0
+2020-07-07,West Jaintia Hills,5,5,0, 0,0
+2020-07-07,West Khasi Hills,1,0,0, 0,0

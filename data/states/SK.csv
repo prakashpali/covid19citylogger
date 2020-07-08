@@ -135,3 +135,17 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-04,South Sikkim,38,26,0, 0,0
 2020-07-04,Unknown,1,0,0, 0,0
 2020-07-04,West Sikkim,21,11,0, 0,0
+2020-07-05,East Sikkim,65,23,0,22,9
+2020-07-05,North Sikkim,1,1,0, 0,0
+2020-07-05,South Sikkim,38,26,0, 0,0
+2020-07-05,West Sikkim,21,11,0, 0,0
+2020-07-06,East Sikkim,65,23,0, 0,0
+2020-07-06,North Sikkim,1,1,0, 0,0
+2020-07-06,South Sikkim,38,26,0, 0,0
+2020-07-06,Unknown,0,4,0, 0,4
+2020-07-06,West Sikkim,21,11,0, 0,0
+2020-07-07,East Sikkim,65,23,0, 0,0
+2020-07-07,North Sikkim,1,1,0, 0,0
+2020-07-07,South Sikkim,38,26,0, 0,0
+2020-07-07,Unknown,2,4,0,2,0
+2020-07-07,West Sikkim,21,11,0, 0,0

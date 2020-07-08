@@ -69,3 +69,6 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-02,Chandigarh,450,389,6,4,22
 2020-07-03,Chandigarh,454,393,6,4,4
 2020-07-04,Chandigarh,459,395,6,5,2
+2020-07-05,Chandigarh,466,395,6,7,0
+2020-07-06,Chandigarh,487,401,6,21,6
+2020-07-07,Chandigarh,492,401,7,5,0
