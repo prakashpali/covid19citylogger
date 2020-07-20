@@ -2474,3 +2474,327 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-07,Warangal Rural,126,0,0, 0,0
 2020-07-07,Warangal Urban,182,23,0,13,0
 2020-07-07,Yadadri Bhuvanagiri,25,0,0, 0,0
+2020-07-08,Sangareddy,229,6,0,20,0
+2020-07-08,Unknown,456,16728,294, 0,992
+2020-07-08,Khammam,100,3,0,4,0
+2020-07-08,Nalgonda,180,12,0,13,0
+2020-07-08,Other State,250,0,0, 0,0
+2020-07-08,Nagarkurnool,30,2,0,3,0
+2020-07-08,Yadadri Bhuvanagiri,30,0,0,5,0
+2020-07-08,Warangal Urban,189,23,0,7,0
+2020-07-08,Jayashankar Bhupalapally,19,0,0, 0,0
+2020-07-08,Komaram Bheem,27,2,0,1,0
+2020-07-08,Siddipet,36,1,0, 0,0
+2020-07-08,Mahabubnagar,139,8,0,15,0
+2020-07-08,Medchal Malkajgiri,1133,9,1,43,0
+2020-07-08,Mulugu,35,2,0, 0,0
+2020-07-08,Adilabad,52,15,0,3,0
+2020-07-08,Jangaon,87,1,0, 0,0
+2020-07-08,Nirmal,39,13,0, 0,0
+2020-07-08,Jagtial,43,2,0,3,0
+2020-07-08,Bhadradri Kothagudem,51,4,0,5,0
+2020-07-08,Narayanpet,8,0,1,1,0
+2020-07-08,Mahabubabad,48,1,0, 0,0
+2020-07-08,Peddapalli,24,1,0,5,0
+2020-07-08,Kamareddy,62,8,0,3,0
+2020-07-08,Rajanna Sircilla,55,2,0,13,0
+2020-07-08,Wanaparthy,25,0,0,9,0
+2020-07-08,Jogulamba Gadwal,61,25,1, 0,0
+2020-07-08,Karimnagar,180,16,0,14,0
+2020-07-08,Suryapet,142,24,0,7,0
+2020-07-08,Vikarabad,73,15,1,11,0
+2020-07-08,Hyderabad,23358,305,23,1590,0
+2020-07-08,Medak,103,4,0,5,0
+2020-07-08,Nizamabad,164,30,0,19,0
+2020-07-08,Warangal Rural,152,0,0,26,0
+2020-07-08,Ranga Reddy,1835,17,2,99,0
+2020-07-08,Mancherial,88,0,1, 0,0
+2020-07-08,Foreign Evacuees,33,0,0, 0,0
+2020-07-09,Sangareddy,308,6,0,79,0
+2020-07-09,Unknown,456,17641,301, 0,913
+2020-07-09,Khammam,112,3,0,12,0
+2020-07-09,Nalgonda,201,12,0,21,0
+2020-07-09,Other State,250,0,0, 0,0
+2020-07-09,Nagarkurnool,30,2,0, 0,0
+2020-07-09,Yadadri Bhuvanagiri,32,0,0,2,0
+2020-07-09,Warangal Urban,223,23,0,34,0
+2020-07-09,Jayashankar Bhupalapally,25,0,0,6,0
+2020-07-09,Komaram Bheem,27,2,0, 0,0
+2020-07-09,Siddipet,37,1,0,1,0
+2020-07-09,Mahabubnagar,147,8,0,8,0
+2020-07-09,Medchal Malkajgiri,1200,9,1,67,0
+2020-07-09,Mulugu,36,2,0,1,0
+2020-07-09,Adilabad,53,15,0,1,0
+2020-07-09,Jangaon,89,1,0,2,0
+2020-07-09,Nirmal,39,13,0, 0,0
+2020-07-09,Jagtial,44,2,0,1,0
+2020-07-09,Bhadradri Kothagudem,74,4,0,23,0
+2020-07-09,Narayanpet,8,0,1, 0,0
+2020-07-09,Mahabubabad,53,1,0,5,0
+2020-07-09,Peddapalli,25,1,0,1,0
+2020-07-09,Kamareddy,64,8,0,2,0
+2020-07-09,Rajanna Sircilla,63,2,0,8,0
+2020-07-09,Wanaparthy,27,0,0,2,0
+2020-07-09,Jogulamba Gadwal,63,25,1,2,0
+2020-07-09,Karimnagar,212,16,0,32,0
+2020-07-09,Suryapet,152,24,0,10,0
+2020-07-09,Vikarabad,78,15,1,5,0
+2020-07-09,Hyderabad,24276,305,23,918,0
+2020-07-09,Medak,120,4,0,17,0
+2020-07-09,Nizamabad,182,30,0,18,0
+2020-07-09,Warangal Rural,159,0,0,7,0
+2020-07-09,Ranga Reddy,1960,17,2,125,0
+2020-07-09,Mancherial,88,0,1, 0,0
+2020-07-09,Foreign Evacuees,33,0,0, 0,0
+2020-07-10,Sangareddy,344,6,0,36,0
+2020-07-10,Unknown,456,18654,309, 0,1013
+2020-07-10,Khammam,130,3,0,18,0
+2020-07-10,Nalgonda,233,12,0,32,0
+2020-07-10,Other State,250,0,0, 0,0
+2020-07-10,Nagarkurnool,30,2,0, 0,0
+2020-07-10,Yadadri Bhuvanagiri,33,0,0,1,0
+2020-07-10,Warangal Urban,228,23,0,5,0
+2020-07-10,Jayashankar Bhupalapally,25,0,0, 0,0
+2020-07-10,Komaram Bheem,28,2,0,1,0
+2020-07-10,Siddipet,41,1,0,4,0
+2020-07-10,Mahabubnagar,161,8,0,14,0
+2020-07-10,Medchal Malkajgiri,1285,9,1,85,0
+2020-07-10,Mulugu,36,2,0, 0,0
+2020-07-10,Adilabad,67,15,0,14,0
+2020-07-10,Jangaon,92,1,0,3,0
+2020-07-10,Nirmal,40,13,0,1,0
+2020-07-10,Jagtial,44,2,0, 0,0
+2020-07-10,Bhadradri Kothagudem,74,4,0, 0,0
+2020-07-10,Narayanpet,17,0,1,9,0
+2020-07-10,Mahabubabad,59,1,0,6,0
+2020-07-10,Peddapalli,31,1,0,6,0
+2020-07-10,Kamareddy,87,8,0,23,0
+2020-07-10,Rajanna Sircilla,70,2,0,7,0
+2020-07-10,Wanaparthy,28,0,0,1,0
+2020-07-10,Jogulamba Gadwal,64,25,1,1,0
+2020-07-10,Karimnagar,221,16,0,9,0
+2020-07-10,Suryapet,166,24,0,14,0
+2020-07-10,Vikarabad,78,15,1, 0,0
+2020-07-10,Hyderabad,25038,305,23,762,0
+2020-07-10,Medak,142,4,0,22,0
+2020-07-10,Nizamabad,190,30,0,8,0
+2020-07-10,Warangal Rural,167,0,0,8,0
+2020-07-10,Ranga Reddy,2131,17,2,171,0
+2020-07-10,Mancherial,105,0,1,17,0
+2020-07-10,Foreign Evacuees,33,0,0, 0,0
+2020-07-11,Sangareddy,357,6,0,13,0
+2020-07-11,Unknown,456,20368,318, 0,1714
+2020-07-11,Khammam,132,3,0,2,0
+2020-07-11,Nalgonda,245,12,0,12,0
+2020-07-11,Other State,250,0,0, 0,0
+2020-07-11,Nagarkurnool,30,2,0, 0,0
+2020-07-11,Yadadri Bhuvanagiri,42,0,0,9,0
+2020-07-11,Warangal Urban,248,23,0,20,0
+2020-07-11,Jayashankar Bhupalapally,25,0,0, 0,0
+2020-07-11,Komaram Bheem,29,2,0,1,0
+2020-07-11,Siddipet,50,1,0,9,0
+2020-07-11,Mahabubnagar,173,8,0,12,0
+2020-07-11,Medchal Malkajgiri,1386,9,1,101,0
+2020-07-11,Mulugu,36,2,0, 0,0
+2020-07-11,Adilabad,75,15,0,8,0
+2020-07-11,Jangaon,94,1,0,2,0
+2020-07-11,Nirmal,42,13,0,2,0
+2020-07-11,Jagtial,46,2,0,2,0
+2020-07-11,Bhadradri Kothagudem,74,4,0, 0,0
+2020-07-11,Narayanpet,22,0,1,5,0
+2020-07-11,Mahabubabad,59,1,0, 0,0
+2020-07-11,Peddapalli,43,1,0,12,0
+2020-07-11,Kamareddy,87,8,0, 0,0
+2020-07-11,Rajanna Sircilla,94,2,0,24,0
+2020-07-11,Wanaparthy,30,0,0,2,0
+2020-07-11,Jogulamba Gadwal,70,25,1,6,0
+2020-07-11,Karimnagar,245,16,0,24,0
+2020-07-11,Suryapet,173,24,0,7,0
+2020-07-11,Vikarabad,87,15,1,9,0
+2020-07-11,Hyderabad,25774,305,23,736,0
+2020-07-11,Medak,158,4,0,16,0
+2020-07-11,Nizamabad,202,30,0,12,0
+2020-07-11,Warangal Rural,169,0,0,2,0
+2020-07-11,Ranga Reddy,2256,17,2,125,0
+2020-07-11,Mancherial,110,0,1,5,0
+2020-07-11,Foreign Evacuees,33,0,0, 0,0
+2020-07-12,Sangareddy,393,6,0,36,0
+2020-07-12,Unknown,456,21931,326, 0,1563
+2020-07-12,Khammam,133,3,0,1,0
+2020-07-12,Nalgonda,260,12,0,15,0
+2020-07-12,Other State,250,0,0, 0,0
+2020-07-12,Nagarkurnool,53,2,0,23,0
+2020-07-12,Yadadri Bhuvanagiri,49,0,0,7,0
+2020-07-12,Warangal Urban,260,23,0,12,0
+2020-07-12,Jayashankar Bhupalapally,25,0,0, 0,0
+2020-07-12,Komaram Bheem,29,2,0, 0,0
+2020-07-12,Siddipet,53,1,0,3,0
+2020-07-12,Mahabubnagar,190,8,0,17,0
+2020-07-12,Medchal Malkajgiri,1480,9,1,94,0
+2020-07-12,Mulugu,36,2,0, 0,0
+2020-07-12,Adilabad,79,15,0,4,0
+2020-07-12,Jangaon,100,1,0,6,0
+2020-07-12,Nirmal,46,13,0,4,0
+2020-07-12,Jagtial,50,2,0,4,0
+2020-07-12,Bhadradri Kothagudem,77,4,0,3,0
+2020-07-12,Narayanpet,22,0,1, 0,0
+2020-07-12,Mahabubabad,67,1,0,8,0
+2020-07-12,Peddapalli,52,1,0,9,0
+2020-07-12,Kamareddy,87,8,0, 0,0
+2020-07-12,Rajanna Sircilla,97,2,0,3,0
+2020-07-12,Wanaparthy,45,0,0,15,0
+2020-07-12,Jogulamba Gadwal,77,25,1,7,0
+2020-07-12,Karimnagar,268,16,0,23,0
+2020-07-12,Suryapet,180,24,0,7,0
+2020-07-12,Vikarabad,93,15,1,6,0
+2020-07-12,Hyderabad,26574,305,23,800,0
+2020-07-12,Medak,172,4,0,14,0
+2020-07-12,Nizamabad,213,30,0,11,0
+2020-07-12,Warangal Rural,171,0,0,2,0
+2020-07-12,Ranga Reddy,2388,17,2,132,0
+2020-07-12,Mancherial,113,0,1,3,0
+2020-07-12,Foreign Evacuees,33,0,0, 0,0
+2020-07-13,Sangareddy,412,6,0,19,0
+2020-07-13,Unknown,456,23128,335, 0,1197
+2020-07-13,Khammam,171,3,0,38,0
+2020-07-13,Nalgonda,301,12,0,41,0
+2020-07-13,Other State,250,0,0, 0,0
+2020-07-13,Nagarkurnool,55,2,0,2,0
+2020-07-13,Yadadri Bhuvanagiri,54,0,0,5,0
+2020-07-13,Warangal Urban,276,23,0,16,0
+2020-07-13,Jayashankar Bhupalapally,31,0,0,6,0
+2020-07-13,Komaram Bheem,29,2,0, 0,0
+2020-07-13,Siddipet,63,1,0,10,0
+2020-07-13,Mahabubnagar,203,8,0,13,0
+2020-07-13,Medchal Malkajgiri,1533,9,1,53,0
+2020-07-13,Mulugu,36,2,0, 0,0
+2020-07-13,Adilabad,80,15,0,1,0
+2020-07-13,Jangaon,110,1,0,10,0
+2020-07-13,Nirmal,47,13,0,1,0
+2020-07-13,Jagtial,50,2,0, 0,0
+2020-07-13,Bhadradri Kothagudem,87,4,0,10,0
+2020-07-13,Narayanpet,22,0,1, 0,0
+2020-07-13,Mahabubabad,80,1,0,13,0
+2020-07-13,Peddapalli,58,1,0,6,0
+2020-07-13,Kamareddy,120,8,0,33,0
+2020-07-13,Rajanna Sircilla,104,2,0,7,0
+2020-07-13,Wanaparthy,46,0,0,1,0
+2020-07-13,Jogulamba Gadwal,82,25,1,5,0
+2020-07-13,Karimnagar,354,16,0,86,0
+2020-07-13,Suryapet,190,24,0,10,0
+2020-07-13,Vikarabad,96,15,1,3,0
+2020-07-13,Hyderabad,27500,305,23,926,0
+2020-07-13,Medak,178,4,0,6,0
+2020-07-13,Nizamabad,221,30,0,8,0
+2020-07-13,Warangal Rural,179,0,0,8,0
+2020-07-13,Ranga Reddy,2600,17,2,212,0
+2020-07-13,Mancherial,114,0,1,1,0
+2020-07-13,Foreign Evacuees,33,0,0, 0,0
+2020-07-14,Sangareddy,473,6,0,61,0
+2020-07-14,Unknown,456,24289,345, 0,1161
+2020-07-14,Khammam,179,3,0,8,0
+2020-07-14,Nalgonda,339,12,0,38,0
+2020-07-14,Other State,250,0,0, 0,0
+2020-07-14,Nagarkurnool,56,2,0,1,0
+2020-07-14,Yadadri Bhuvanagiri,54,0,0, 0,0
+2020-07-14,Warangal Urban,306,23,0,30,0
+2020-07-14,Jayashankar Bhupalapally,43,0,0,12,0
+2020-07-14,Komaram Bheem,34,2,0,5,0
+2020-07-14,Siddipet,67,1,0,4,0
+2020-07-14,Mahabubnagar,210,8,0,7,0
+2020-07-14,Medchal Malkajgiri,1630,9,1,97,0
+2020-07-14,Mulugu,42,2,0,6,0
+2020-07-14,Adilabad,87,15,0,7,0
+2020-07-14,Jangaon,114,1,0,4,0
+2020-07-14,Nirmal,50,13,0,3,0
+2020-07-14,Jagtial,52,2,0,2,0
+2020-07-14,Bhadradri Kothagudem,95,4,0,8,0
+2020-07-14,Narayanpet,22,0,1, 0,0
+2020-07-14,Mahabubabad,80,1,0, 0,0
+2020-07-14,Peddapalli,58,1,0, 0,0
+2020-07-14,Kamareddy,139,8,0,19,0
+2020-07-14,Rajanna Sircilla,123,2,0,19,0
+2020-07-14,Wanaparthy,51,0,0,5,0
+2020-07-14,Jogulamba Gadwal,95,25,1,13,0
+2020-07-14,Karimnagar,383,16,0,29,0
+2020-07-14,Suryapet,205,24,0,15,0
+2020-07-14,Vikarabad,117,15,1,21,0
+2020-07-14,Hyderabad,28315,305,23,815,0
+2020-07-14,Medak,202,4,0,24,0
+2020-07-14,Nizamabad,238,30,0,17,0
+2020-07-14,Warangal Rural,181,0,0,2,0
+2020-07-14,Ranga Reddy,2840,17,2,240,0
+2020-07-14,Mancherial,126,0,1,12,0
+2020-07-14,Foreign Evacuees,33,0,0, 0,0
+2020-07-15,Sangareddy,546,6,0,73,0
+2020-07-15,Unknown,456,25448,356, 0,1159
+2020-07-15,Khammam,185,3,0,6,0
+2020-07-15,Nalgonda,397,12,0,58,0
+2020-07-15,Other State,250,0,0, 0,0
+2020-07-15,Nagarkurnool,61,2,0,5,0
+2020-07-15,Yadadri Bhuvanagiri,67,0,0,13,0
+2020-07-15,Warangal Urban,350,23,0,44,0
+2020-07-15,Jayashankar Bhupalapally,58,0,0,15,0
+2020-07-15,Komaram Bheem,34,2,0, 0,0
+2020-07-15,Siddipet,94,1,0,27,0
+2020-07-15,Mahabubnagar,231,8,0,21,0
+2020-07-15,Medchal Malkajgiri,1745,9,1,115,0
+2020-07-15,Mulugu,46,2,0,4,0
+2020-07-15,Adilabad,88,15,0,1,0
+2020-07-15,Jangaon,122,1,0,8,0
+2020-07-15,Nirmal,50,13,0, 0,0
+2020-07-15,Jagtial,52,2,0, 0,0
+2020-07-15,Bhadradri Kothagudem,102,4,0,7,0
+2020-07-15,Narayanpet,27,0,1,5,0
+2020-07-15,Mahabubabad,85,1,0,5,0
+2020-07-15,Peddapalli,78,1,0,20,0
+2020-07-15,Kamareddy,169,8,0,30,0
+2020-07-15,Rajanna Sircilla,129,2,0,6,0
+2020-07-15,Wanaparthy,56,0,0,5,0
+2020-07-15,Jogulamba Gadwal,99,25,1,4,0
+2020-07-15,Karimnagar,424,16,0,41,0
+2020-07-15,Suryapet,219,24,0,14,0
+2020-07-15,Vikarabad,122,15,1,5,0
+2020-07-15,Hyderabad,29111,305,23,796,0
+2020-07-15,Medak,220,4,0,18,0
+2020-07-15,Nizamabad,251,30,0,13,0
+2020-07-15,Warangal Rural,181,0,0, 0,0
+2020-07-15,Ranga Reddy,3052,17,2,212,0
+2020-07-15,Mancherial,152,0,1,26,0
+2020-07-15,Foreign Evacuees,33,0,0, 0,0
+2020-07-16,Sangareddy,603,6,0,57,0
+2020-07-16,Unknown,456,26744,366, 0,1296
+2020-07-16,Khammam,195,3,0,10,0
+2020-07-16,Nalgonda,461,12,0,64,0
+2020-07-16,Other State,250,0,0, 0,0
+2020-07-16,Nagarkurnool,91,2,0,30,0
+2020-07-16,Yadadri Bhuvanagiri,68,0,0,1,0
+2020-07-16,Warangal Urban,397,23,0,47,0
+2020-07-16,Jayashankar Bhupalapally,66,0,0,8,0
+2020-07-16,Komaram Bheem,34,2,0, 0,0
+2020-07-16,Siddipet,99,1,0,5,0
+2020-07-16,Mahabubnagar,237,8,0,6,0
+2020-07-16,Medchal Malkajgiri,1905,9,1,160,0
+2020-07-16,Mulugu,46,2,0, 0,0
+2020-07-16,Adilabad,88,15,0, 0,0
+2020-07-16,Jangaon,123,1,0,1,0
+2020-07-16,Nirmal,50,13,0, 0,0
+2020-07-16,Jagtial,53,2,0,1,0
+2020-07-16,Bhadradri Kothagudem,108,4,0,6,0
+2020-07-16,Narayanpet,34,0,1,7,0
+2020-07-16,Mahabubabad,104,1,0,19,0
+2020-07-16,Peddapalli,85,1,0,7,0
+2020-07-16,Kamareddy,174,8,0,5,0
+2020-07-16,Rajanna Sircilla,132,2,0,3,0
+2020-07-16,Wanaparthy,107,0,0,51,0
+2020-07-16,Jogulamba Gadwal,104,25,1,5,0
+2020-07-16,Karimnagar,516,16,0,92,0
+2020-07-16,Suryapet,239,24,0,20,0
+2020-07-16,Vikarabad,130,15,1,8,0
+2020-07-16,Hyderabad,29899,305,23,788,0
+2020-07-16,Medak,246,4,0,26,0
+2020-07-16,Nizamabad,271,30,0,20,0
+2020-07-16,Warangal Rural,182,0,0,1,0
+2020-07-16,Ranga Reddy,3276,17,2,224,0
+2020-07-16,Mancherial,156,0,1,4,0
+2020-07-16,Foreign Evacuees,33,0,0, 0,0

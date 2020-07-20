@@ -287,12 +287,12 @@ class Covid19Logger(object):
 if __name__ == '__main__':
     c = Covid19Logger()
 
-    # ~ # Update latest data in all state files
-    # ~ for i in range(delta_date.days + 1):
-        # ~ date = sdate + timedelta(days=i)
-        # ~ # print(date)
-        # ~ c.cov_get_state_data(str(date))
+    # # Update latest data in all state files
+    # for i in range(delta_date.days + 1):
+    #     date = sdate + timedelta(days=i)
+    #     # print(date)
+    #     c.cov_get_state_data(str(date))
 
-    app.run_server(host='192.168.1.12', port='8080', debug=True)
+    app.run_server(host='192.168.1.4', port='8080', debug=True)
 
 

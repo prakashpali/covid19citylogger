@@ -875,3 +875,111 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-07,South West Delhi,42,0,0, 0,0
 2020-07-07,Unknown,102043,74217,3164,2008,2129
 2020-07-07,West Delhi,122,0,0, 0,0
+2020-07-08,North Delhi,60,0,0, 0,0
+2020-07-08,New Delhi,37,0,0, 0,0
+2020-07-08,East Delhi,38,0,0, 0,0
+2020-07-08,North West Delhi,32,0,1, 0,0
+2020-07-08,West Delhi,122,0,0, 0,0
+2020-07-08,South Delhi,70,0,0, 0,0
+2020-07-08,Central Delhi,184,0,0, 0,0
+2020-07-08,Unknown,104076,78199,3212,2033,3982
+2020-07-08,Shahdara,48,0,0, 0,0
+2020-07-08,South West Delhi,42,0,0, 0,0
+2020-07-08,South East Delhi,130,0,0, 0,0
+2020-07-08,North East Delhi,25,0,0, 0,0
+2020-07-09,North Delhi,60,0,0, 0,0
+2020-07-09,New Delhi,37,0,0, 0,0
+2020-07-09,East Delhi,38,0,0, 0,0
+2020-07-09,North West Delhi,32,0,1, 0,0
+2020-07-09,West Delhi,122,0,0, 0,0
+2020-07-09,South Delhi,70,0,0, 0,0
+2020-07-09,Central Delhi,184,0,0, 0,0
+2020-07-09,Unknown,106263,82226,3257,2187,4027
+2020-07-09,Shahdara,48,0,0, 0,0
+2020-07-09,South West Delhi,42,0,0, 0,0
+2020-07-09,South East Delhi,130,0,0, 0,0
+2020-07-09,North East Delhi,25,0,0, 0,0
+2020-07-10,North Delhi,60,0,0, 0,0
+2020-07-10,New Delhi,37,0,0, 0,0
+2020-07-10,East Delhi,38,0,0, 0,0
+2020-07-10,North West Delhi,32,0,1, 0,0
+2020-07-10,West Delhi,122,0,0, 0,0
+2020-07-10,South Delhi,70,0,0, 0,0
+2020-07-10,Central Delhi,184,0,0, 0,0
+2020-07-10,Unknown,108352,84694,3299,2089,2468
+2020-07-10,Shahdara,48,0,0, 0,0
+2020-07-10,South West Delhi,42,0,0, 0,0
+2020-07-10,South East Delhi,130,0,0, 0,0
+2020-07-10,North East Delhi,25,0,0, 0,0
+2020-07-11,North Delhi,60,0,0, 0,0
+2020-07-11,New Delhi,37,0,0, 0,0
+2020-07-11,East Delhi,38,0,0, 0,0
+2020-07-11,North West Delhi,32,0,1, 0,0
+2020-07-11,West Delhi,122,0,0, 0,0
+2020-07-11,South Delhi,70,0,0, 0,0
+2020-07-11,Central Delhi,184,0,0, 0,0
+2020-07-11,Unknown,110133,87692,3333,1781,2998
+2020-07-11,Shahdara,48,0,0, 0,0
+2020-07-11,South West Delhi,42,0,0, 0,0
+2020-07-11,South East Delhi,130,0,0, 0,0
+2020-07-11,North East Delhi,25,0,0, 0,0
+2020-07-12,North Delhi,60,0,0, 0,0
+2020-07-12,New Delhi,37,0,0, 0,0
+2020-07-12,East Delhi,38,0,0, 0,0
+2020-07-12,North West Delhi,32,0,1, 0,0
+2020-07-12,West Delhi,122,0,0, 0,0
+2020-07-12,South Delhi,70,0,0, 0,0
+2020-07-12,Central Delhi,184,0,0, 0,0
+2020-07-12,Unknown,111706,89968,3370,1573,2276
+2020-07-12,Shahdara,48,0,0, 0,0
+2020-07-12,South West Delhi,42,0,0, 0,0
+2020-07-12,South East Delhi,130,0,0, 0,0
+2020-07-12,North East Delhi,25,0,0, 0,0
+2020-07-13,North Delhi,60,0,0, 0,0
+2020-07-13,New Delhi,37,0,0, 0,0
+2020-07-13,East Delhi,38,0,0, 0,0
+2020-07-13,North West Delhi,32,0,1, 0,0
+2020-07-13,West Delhi,122,0,0, 0,0
+2020-07-13,South Delhi,70,0,0, 0,0
+2020-07-13,Central Delhi,184,0,0, 0,0
+2020-07-13,Unknown,112952,91312,3410,1246,1344
+2020-07-13,Shahdara,48,0,0, 0,0
+2020-07-13,South West Delhi,42,0,0, 0,0
+2020-07-13,South East Delhi,130,0,0, 0,0
+2020-07-13,North East Delhi,25,0,0, 0,0
+2020-07-14,North Delhi,60,0,0, 0,0
+2020-07-14,New Delhi,37,0,0, 0,0
+2020-07-14,East Delhi,38,0,0, 0,0
+2020-07-14,North West Delhi,32,0,1, 0,0
+2020-07-14,West Delhi,122,0,0, 0,0
+2020-07-14,South Delhi,70,0,0, 0,0
+2020-07-14,Central Delhi,184,0,0, 0,0
+2020-07-14,Unknown,114558,93236,3445,1606,1924
+2020-07-14,Shahdara,48,0,0, 0,0
+2020-07-14,South West Delhi,42,0,0, 0,0
+2020-07-14,South East Delhi,130,0,0, 0,0
+2020-07-14,North East Delhi,25,0,0, 0,0
+2020-07-15,North Delhi,60,0,0, 0,0
+2020-07-15,New Delhi,37,0,0, 0,0
+2020-07-15,East Delhi,38,0,0, 0,0
+2020-07-15,North West Delhi,32,0,1, 0,0
+2020-07-15,West Delhi,122,0,0, 0,0
+2020-07-15,South Delhi,70,0,0, 0,0
+2020-07-15,Central Delhi,184,0,0, 0,0
+2020-07-15,Unknown,116205,95699,3486,1647,2463
+2020-07-15,Shahdara,48,0,0, 0,0
+2020-07-15,South West Delhi,42,0,0, 0,0
+2020-07-15,South East Delhi,130,0,0, 0,0
+2020-07-15,North East Delhi,25,0,0, 0,0
+2020-07-16,North Delhi,60,0,0, 0,0
+2020-07-16,New Delhi,37,0,0, 0,0
+2020-07-16,East Delhi,38,0,0, 0,0
+2020-07-16,North West Delhi,32,0,1, 0,0
+2020-07-16,West Delhi,122,0,0, 0,0
+2020-07-16,South Delhi,70,0,0, 0,0
+2020-07-16,Central Delhi,184,0,0, 0,0
+2020-07-16,Unknown,117857,97693,3544,1652,1994
+2020-07-16,Shahdara,48,0,0, 0,0
+2020-07-16,South West Delhi,42,0,0, 0,0
+2020-07-16,South East Delhi,130,0,0, 0,0
+2020-07-16,North East Delhi,25,0,0, 0,0

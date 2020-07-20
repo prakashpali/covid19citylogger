@@ -62,9 +62,20 @@ class Covid19Logger(object):
         '''
         Get date wise data for each city
         '''
+        states = []
         data = self.cov_get_date_wise_data(date)
-        data = json.loads(data)
-        states = data.keys()
+        try:
+            data = json.loads(data)
+        except ValueError as e:
+            print('________Error: Failed to load JSON for {}, {}'.format(city, date))
+            return ''
+
+        try:
+            states = data.keys()
+        except Exception as e:
+            print('________Error:', e, date)
+            return ''
+
         data_dict = ''
         for key in states:
             try:
@@ -78,40 +89,53 @@ class Covid19Logger(object):
                 print('________Error:', e, date)
                 # data_dict = ''
 
-        # print(data_dict[city])
+        # print(data_dict)
 
         # pdb.set_trace()
-        data_city = {'date': date}
+        data_city = str(date)
 
         try:
-            data_city.update({'confirmed': data_dict[city]['total']['confirmed']})
+            data_city += ',' + str(data_dict[city]['total']['confirmed'])
         except Exception as e:
-            # print('____Error:', e)
-            data_city.update({'confirmed': 0})
+            print('____Error:', e)
+            # print(data_dict[city]['total']['confirmed'])
+            data_city += ',' + '0'
 
         try:
-            data_city.update({'recovered': data_dict[city]['total']['recovered']})
+            data_city += ',' + str(data_dict[city]['total']['recovered'])
         except Exception as e:
             # print('____Error:', e)
-            data_city.update({'recovered': 0})
+            data_city += ',' + '0'
 
         try:
-            data_city.update({'deceased': data_dict[city]['total']['deceased']})
+            data_city += ',' + str(data_dict[city]['total']['deceased'])
         except Exception as e:
             # print('____Error:', e)
-            data_city.update({'deceased': 0})
+            data_city += ',' + '0'
 
         try:
-            data_city.update({'delta_confirmed': data_dict[city]['total']['confirmed']})
+            data_city += ',' + str(data_dict[city]['total']['tested'])
         except Exception as e:
             # print('____Error:', e)
-            data_city.update({'delta_confirmed': 0})
+            data_city += ',' + '0'
 
         try:
-            data_city.update({'delta_recovered': data_dict[city]['total']['recovered']})
+            data_city += ',' + str(data_dict[city]['delta']['confirmed'])
         except Exception as e:
             # print('____Error:', e)
-            data_city.update({'delta_recovered': 0})
+            data_city += ',' + '0'
+
+        try:
+            data_city += ',' + str(data_dict[city]['delta']['recovered'])
+        except Exception as e:
+            # print('____Error:', e)
+            data_city += ',' + '0'
+
+        try:
+            data_city += ',' + str(data_dict[city]['meta']['population'])
+        except Exception as e:
+            # print('____Error:', e)
+            data_city += ',' + '0'
 
         # Create a file for district
         path = r'data\districts\{}.csv'.format(city)
@@ -119,6 +143,10 @@ class Covid19Logger(object):
         if os.path.exists(path):
             f = open(r'data\districts\{}.csv'.format(city), 'r')
             lines = f.readlines()
+            f.close()
+        else:
+            f = open(r'data\districts\{}.csv'.format(city), 'w')
+            f.write('Date,Confirmed,Recovered,Deceased,Tested,DeltaConfirmed,DeltaRecovered,Population\n')
             f.close()
 
         if str(data_city) + '\n' not in lines:
@@ -148,7 +176,8 @@ if __name__ == '__main__':
     sdate = date(2020, 4, 20)  # start date
     edate = datetime.now().date() - timedelta(days=1)
 
-    cities = ['Bengaluru Urban', 'Ranchi', 'Deoghar']
+    # cities = ['Bengaluru Urban', 'Delhi', 'Mumbai', 'Chennai', 'Hyderabad', 'Kolkata']
+    cities = ['Kolkata']
 
     delta = edate - sdate  # as timedelta
 
@@ -171,61 +200,8 @@ if __name__ == '__main__':
         for i in range(delta.days + 1):
             day = sdate + timedelta(days=i)
             dates.append(str(day))
-            data_dict = c.cov_get_date_wise_city_data(str(day), city)
-            confirmed_data[city].append(data_dict['confirmed'])
-            recovered_data[city].append(data_dict['recovered'])
-            deceased_data[city].append(data_dict['deceased'])
-            active_data[city].append(data_dict['confirmed'] - data_dict['recovered'])
+            data_city = c.cov_get_date_wise_city_data(str(day), city)
 
-        fig.add_trace(go.Scatter(x=dates, y=confirmed_data[city], name=city + ' Confirmed', mode='lines+markers'))
-        fig.add_trace(go.Scatter(x=dates, y=active_data[city], name=city + ' Active', mode='lines+markers'))
-        fig.add_trace(go.Scatter(x=dates, y=recovered_data[city], name=city + ' Recovered', mode='lines+markers'))
-        fig.add_trace(go.Scatter(x=dates, y=deceased_data[city], name=city + ' Deceased', mode='lines+markers'))
-
-        # # Adding labels
-        # y_trace = confirmed_data[city]
-        # # labeling the left_side of the plot
-        # annotations.append(dict(xref='paper', x=0.05, y=y_trace[0],
-        #                         xanchor='right', yanchor='middle',
-        #                         text=city + ' {}'.format(y_trace[0]),
-        #                         font=dict(family='Arial',
-        #                                   size=10),
-        #                         showarrow=False))
-        # # labeling the right_side of the plot
-        # annotations.append(dict(xref='paper', x=0.95, y=y_trace[-1],
-        #                         xanchor='left', yanchor='middle',
-        #                         text=city + ' {}'.format(y_trace[-1]),
-        #                         font=dict(family='Arial',
-        #                                   size=10),
-        #                         showarrow=False))
-
-    # print(confirmed_data)
-    # print(dates)
-    # print(annotations)
-
-    # Edit the layout
-    fig.update_layout(title='Number of confirmed cases in cities',
-                      xaxis_title='Date',
-                      yaxis_title='Number',
-                      xaxis=dict(
-                          showline=True,
-                          showgrid=True,
-                          showticklabels=True,
-                          linecolor='rgb(204, 204, 204)',
-                          linewidth=2,
-                          ticks='outside',
-                          tickfont=dict(
-                              family='Arial',
-                              size=12,
-                              color='rgb(82, 82, 82)',
-                          ),
-                      ),
-                      annotations=annotations
-    )
-
-    fig.write_html('confirmed_cases.html', auto_open=False)
-    # fig.write_image("confirmed_cases.png")
-    fig.show()
 
 
 

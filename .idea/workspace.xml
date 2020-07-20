@@ -2,7 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a97f043-35f1-4055-b8ef-269e661f7349" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/covid19_logger.py" afterPath="$PROJECT_DIR$/covid19_logger.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/districts/Deoghar.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/districts/Ranchi.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/districts/Surat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/districts/Unknown.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/covid19logger.iml" afterPath="$PROJECT_DIR$/.idea/covid19logger.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/covid19_logger.py" afterPath="$PROJECT_DIR$/covid19_logger.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/districts/Bengaluru Urban.csv" afterPath="$PROJECT_DIR$/data/districts/Bengaluru Urban.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/districts/Mumbai.csv" afterPath="$PROJECT_DIR$/data/districts/Mumbai.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/AN.csv" afterPath="$PROJECT_DIR$/data/states/AN.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/AP.csv" afterPath="$PROJECT_DIR$/data/states/AP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/AR.csv" afterPath="$PROJECT_DIR$/data/states/AR.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/AS.csv" afterPath="$PROJECT_DIR$/data/states/AS.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/BR.csv" afterPath="$PROJECT_DIR$/data/states/BR.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/CH.csv" afterPath="$PROJECT_DIR$/data/states/CH.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/CT.csv" afterPath="$PROJECT_DIR$/data/states/CT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/DL.csv" afterPath="$PROJECT_DIR$/data/states/DL.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/DN.csv" afterPath="$PROJECT_DIR$/data/states/DN.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/GA.csv" afterPath="$PROJECT_DIR$/data/states/GA.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/GJ.csv" afterPath="$PROJECT_DIR$/data/states/GJ.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/HP.csv" afterPath="$PROJECT_DIR$/data/states/HP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/HR.csv" afterPath="$PROJECT_DIR$/data/states/HR.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/JH.csv" afterPath="$PROJECT_DIR$/data/states/JH.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/JK.csv" afterPath="$PROJECT_DIR$/data/states/JK.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/KA.csv" afterPath="$PROJECT_DIR$/data/states/KA.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/KL.csv" afterPath="$PROJECT_DIR$/data/states/KL.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/LA.csv" afterPath="$PROJECT_DIR$/data/states/LA.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/MH.csv" afterPath="$PROJECT_DIR$/data/states/MH.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/ML.csv" afterPath="$PROJECT_DIR$/data/states/ML.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/MN.csv" afterPath="$PROJECT_DIR$/data/states/MN.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/MP.csv" afterPath="$PROJECT_DIR$/data/states/MP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/MZ.csv" afterPath="$PROJECT_DIR$/data/states/MZ.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/NL.csv" afterPath="$PROJECT_DIR$/data/states/NL.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/OR.csv" afterPath="$PROJECT_DIR$/data/states/OR.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/PB.csv" afterPath="$PROJECT_DIR$/data/states/PB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/PY.csv" afterPath="$PROJECT_DIR$/data/states/PY.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/RJ.csv" afterPath="$PROJECT_DIR$/data/states/RJ.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/SK.csv" afterPath="$PROJECT_DIR$/data/states/SK.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/TG.csv" afterPath="$PROJECT_DIR$/data/states/TG.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/TN.csv" afterPath="$PROJECT_DIR$/data/states/TN.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/TR.csv" afterPath="$PROJECT_DIR$/data/states/TR.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/UP.csv" afterPath="$PROJECT_DIR$/data/states/UP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/UT.csv" afterPath="$PROJECT_DIR$/data/states/UT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/states/WB.csv" afterPath="$PROJECT_DIR$/data/states/WB.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,12 +56,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="covid19_logger.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="covid19_logger.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/covid19_logger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="246">
+              <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#1310#1991#0" expanded="false" />
+                <element signature="e#5169#5772#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-128">
+              <caret line="142" column="46" lean-forward="false" selection-start-line="142" selection-start-column="46" selection-end-line="142" selection-end-column="46" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -51,11 +109,12 @@
       <list>
         <option value="$PROJECT_DIR$/quickstart.py" />
         <option value="$PROJECT_DIR$/google_spreadsheet.py" />
+        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/covid19_logger.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="699" />
@@ -79,23 +138,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="covid19logger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="covid19logger" type="462c0819:PsiDirectoryNode" />
+              <item name="covid19citylogger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="covid19citylogger" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -110,7 +169,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.covid19_logger">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="covid19logger" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="covid19_logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +203,6 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="quickstart" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,16 +220,17 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.quickstart" />
       <item index="1" class="java.lang.String" itemvalue="Python.covid19_logger" />
+      <item index="2" class="java.lang.String" itemvalue="Python.app" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.covid19_logger" />
-        <item index="1" class="java.lang.String" itemvalue="Python.quickstart" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.covid19_logger" />
+        <item index="2" class="java.lang.String" itemvalue="Python.quickstart" />
       </list>
     </recent_temporary>
   </component>
@@ -175,25 +251,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14479166" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20591341" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29915434" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -205,28 +282,90 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/google_spreadsheet.py">
+    <entry file="file://$PROJECT_DIR$/covid19_logger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#1310#1991#0" expanded="false" />
+            <element signature="e#5169#5772#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart.py">
+    <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="10" lean-forward="false" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+        <state relative-caret-position="5015">
+          <caret line="295" column="42" lean-forward="false" selection-start-line="295" selection-start-column="42" selection-end-line="295" selection-end-column="42" />
           <folding>
-            <element signature="e#0#37#0" expanded="false" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/covid19_logger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#1310#1991#0" expanded="false" />
+            <element signature="e#5169#5772#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5015">
+          <caret line="295" column="42" lean-forward="true" selection-start-line="295" selection-start-column="42" selection-end-line="295" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/covid19_logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#1310#1991#0" expanded="false" />
+            <element signature="e#5169#5772#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google_spreadsheet.py" />
+    <entry file="file://$PROJECT_DIR$/quickstart.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/plotly/express/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="e#186#224#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/covid19_logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#1310#1991#0" expanded="false" />
+            <element signature="e#5169#5772#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="142" column="46" lean-forward="false" selection-start-line="142" selection-start-column="46" selection-end-line="142" selection-end-column="46" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

@@ -174,3 +174,30 @@ date,city,confirmed,recovered,deceased,delta_confirmed,delta_recovered
 2020-07-07,North and Middle Andaman,1,1,0, 0,0
 2020-07-07,South Andaman,51,32,0, 0,0
 2020-07-07,Unknown,95,41,0,6,0
+2020-07-08,North and Middle Andaman,1,1,0, 0,0
+2020-07-08,South Andaman,51,32,0, 0,0
+2020-07-08,Unknown,97,41,0,2,0
+2020-07-09,North and Middle Andaman,1,1,0, 0,0
+2020-07-09,South Andaman,51,32,0, 0,0
+2020-07-09,Unknown,104,50,0,7,9
+2020-07-10,North and Middle Andaman,1,1,0, 0,0
+2020-07-10,South Andaman,51,32,0, 0,0
+2020-07-10,Unknown,104,59,0, 0,9
+2020-07-11,North and Middle Andaman,1,1,0, 0,0
+2020-07-11,South Andaman,51,32,0, 0,0
+2020-07-11,Unknown,104,59,0, 0,0
+2020-07-12,North and Middle Andaman,1,1,0, 0,0
+2020-07-12,South Andaman,51,32,0, 0,0
+2020-07-12,Unknown,111,67,0,7,8
+2020-07-13,North and Middle Andaman,1,1,0, 0,0
+2020-07-13,South Andaman,51,32,0, 0,0
+2020-07-13,Unknown,114,76,0,3,9
+2020-07-14,North and Middle Andaman,1,1,0, 0,0
+2020-07-14,South Andaman,51,32,0, 0,0
+2020-07-14,Unknown,119,96,0,5,20
+2020-07-15,North and Middle Andaman,1,1,0, 0,0
+2020-07-15,South Andaman,51,32,0, 0,0
+2020-07-15,Unknown,124,97,0,5,1
+2020-07-16,North and Middle Andaman,1,1,0, 0,0
+2020-07-16,South Andaman,51,32,0, 0,0
+2020-07-16,Unknown,128,100,0,4,3
